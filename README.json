@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-16T00:21:56Z",
+            "last_commit": "2026-08-17T00:20:56Z",
             "owner": "i2p",
             "repo": "i2p.i2p",
-            "stars": 2676
+            "stars": 2680
           }
         },
         {
@@ -54,7 +54,7 @@
             "last_commit": "2026-07-13T03:22:29Z",
             "owner": "v2ray",
             "repo": "v2ray-core",
-            "stars": 46944
+            "stars": 46933
           }
         },
         {
@@ -68,7 +68,7 @@
             "last_commit": "2026-08-12T08:46:21Z",
             "owner": "trailofbits",
             "repo": "algo",
-            "stars": 30361
+            "stars": 30353
           }
         },
         {
@@ -82,7 +82,7 @@
             "last_commit": "2021-05-04T09:42:40Z",
             "owner": "StreisandEffect",
             "repo": "streisand",
-            "stars": 23479
+            "stars": 23465
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2024-08-21T09:27:36Z",
             "owner": "trojan-gfw",
             "repo": "trojan",
-            "stars": 19747
+            "stars": 19746
           }
         },
         {
@@ -110,7 +110,7 @@
             "last_commit": "2024-12-31T13:08:51Z",
             "owner": "ginuerzh",
             "repo": "gost",
-            "stars": 18172
+            "stars": 18173
           }
         },
         {
@@ -121,10 +121,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-15T22:22:09Z",
+            "last_commit": "2026-08-16T07:47:06Z",
             "owner": "getlantern",
             "repo": "lantern",
-            "stars": 15879
+            "stars": 15880
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2026-07-03T14:09:55Z",
             "owner": "klzgrad",
             "repo": "naiveproxy",
-            "stars": 9380
+            "stars": 9383
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2025-09-04T19:18:00Z",
             "owner": "yarrick",
             "repo": "iodine",
-            "stars": 7945
+            "stars": 7946
           }
         },
         {
@@ -354,7 +354,7 @@
             "last_commit": "2025-05-01T07:37:22Z",
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23053
+            "stars": 23056
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2026-07-17T14:23:13Z",
             "owner": "Tribler",
             "repo": "tribler",
-            "stars": 5295
+            "stars": 5297
           }
         },
         {
@@ -424,7 +424,7 @@
             "last_commit": "2024-01-18T22:45:09Z",
             "owner": "miguelfreitas",
             "repo": "twister-core",
-            "stars": 1406
+            "stars": 1405
           }
         }
       ],
@@ -444,7 +444,7 @@
             "last_commit": "2026-01-19T12:59:23Z",
             "owner": "ValdikSS",
             "repo": "GoodbyeDPI",
-            "stars": 28570
+            "stars": 28572
           }
         },
         {
@@ -458,7 +458,7 @@
             "last_commit": "2026-08-10T15:55:42Z",
             "owner": "gfwlist",
             "repo": "gfwlist",
-            "stars": 25513
+            "stars": 25519
           }
         },
         {
@@ -628,7 +628,7 @@
             "last_commit": "2026-02-28T16:37:20Z",
             "owner": "lissy93",
             "repo": "personal-security-checklist",
-            "stars": 22100
+            "stars": 22108
           }
         },
         {
@@ -639,10 +639,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T00:52:32Z",
+            "last_commit": "2026-08-17T00:50:14Z",
             "owner": "awesome-vpn",
             "repo": "awesome-vpn",
-            "stars": 6089
+            "stars": 6095
           }
         },
         {
@@ -664,7 +664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:24:46.789Z",
+    "last_updated": "2026-08-17T02:23:29.300Z",
     "original_repository": "danoctavian/awesome-anti-censorship",
     "original_repository_sha": "0785d0826f2af197699069049beda0cb29cf67d5",
     "enhanced_repository": "enhansome/enhansome-anti-censorship",
