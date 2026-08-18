@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T00:20:56Z",
+            "last_commit": "2026-08-18T00:20:17Z",
             "owner": "i2p",
             "repo": "i2p.i2p",
-            "stars": 2680
+            "stars": 2681
           }
         },
         {
@@ -54,7 +54,7 @@
             "last_commit": "2026-07-13T03:22:29Z",
             "owner": "v2ray",
             "repo": "v2ray-core",
-            "stars": 46933
+            "stars": 46931
           }
         },
         {
@@ -68,7 +68,7 @@
             "last_commit": "2026-08-12T08:46:21Z",
             "owner": "trailofbits",
             "repo": "algo",
-            "stars": 30353
+            "stars": 30354
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2024-08-21T09:27:36Z",
             "owner": "trojan-gfw",
             "repo": "trojan",
-            "stars": 19746
+            "stars": 19747
           }
         },
         {
@@ -110,7 +110,7 @@
             "last_commit": "2024-12-31T13:08:51Z",
             "owner": "ginuerzh",
             "repo": "gost",
-            "stars": 18173
+            "stars": 18172
           }
         },
         {
@@ -121,10 +121,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-16T07:47:06Z",
+            "last_commit": "2026-08-18T01:24:46Z",
             "owner": "getlantern",
             "repo": "lantern",
-            "stars": 15880
+            "stars": 15883
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2026-07-03T14:09:55Z",
             "owner": "klzgrad",
             "repo": "naiveproxy",
-            "stars": 9383
+            "stars": 9385
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2025-09-04T19:18:00Z",
             "owner": "yarrick",
             "repo": "iodine",
-            "stars": 7946
+            "stars": 7948
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2018-11-14T09:18:47Z",
             "owner": "yinghuocho",
             "repo": "firefly-proxy",
-            "stars": 4809
+            "stars": 4808
           }
         },
         {
@@ -275,7 +275,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T05:22:31Z",
+            "last_commit": "2026-08-17T20:52:30Z",
             "owner": "kpdyer",
             "repo": "fteproxy",
             "stars": 155
@@ -354,7 +354,7 @@
             "last_commit": "2025-05-01T07:37:22Z",
             "owner": "ipfs",
             "repo": "ipfs",
-            "stars": 23056
+            "stars": 23054
           }
         },
         {
@@ -368,7 +368,7 @@
             "last_commit": "2024-01-31T07:47:58Z",
             "owner": "HelloZeroNet",
             "repo": "ZeroNet",
-            "stars": 18764
+            "stars": 18766
           }
         },
         {
@@ -444,7 +444,7 @@
             "last_commit": "2026-01-19T12:59:23Z",
             "owner": "ValdikSS",
             "repo": "GoodbyeDPI",
-            "stars": 28572
+            "stars": 28576
           }
         },
         {
@@ -455,10 +455,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-10T15:55:42Z",
+            "last_commit": "2026-08-17T08:22:05Z",
             "owner": "gfwlist",
             "repo": "gfwlist",
-            "stars": 25519
+            "stars": 25525
           }
         },
         {
@@ -628,7 +628,7 @@
             "last_commit": "2026-02-28T16:37:20Z",
             "owner": "lissy93",
             "repo": "personal-security-checklist",
-            "stars": 22108
+            "stars": 22124
           }
         },
         {
@@ -639,10 +639,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T00:50:14Z",
+            "last_commit": "2026-08-18T00:47:35Z",
             "owner": "awesome-vpn",
             "repo": "awesome-vpn",
-            "stars": 6095
+            "stars": 6104
           }
         },
         {
@@ -664,7 +664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:23:29.300Z",
+    "last_updated": "2026-08-18T02:19:27.547Z",
     "original_repository": "danoctavian/awesome-anti-censorship",
     "original_repository_sha": "0785d0826f2af197699069049beda0cb29cf67d5",
     "enhanced_repository": "enhansome/enhansome-anti-censorship",
