@@ -1,671 +1,710 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "i2p",
-          "description": "I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-19T00:20:23Z",
-            "owner": "i2p",
-            "repo": "i2p.i2p",
-            "stars": 2681
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "i2p",
+              "description": "I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4457770,
+                "language": "Java",
+                "last_commit": "2026-08-19T00:20:23Z",
+                "owner": "i2p",
+                "repo": "i2p.i2p",
+                "stars": 2682
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vuvuzela",
+              "description": "Vuvuzela is a messaging system that protects the privacy of message contents and message metadata. Users communicating through Vuvuzela do not reveal who they are talking to, even in the presence of powerful nation-state adversaries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42053757,
+                "language": "Go",
+                "last_commit": "2019-09-12T15:41:22Z",
+                "owner": "vuvuzela",
+                "repo": "vuvuzela",
+                "stars": 2485
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Privacy and anonymity"
         },
         {
-          "node_type": "item",
-          "title": "vuvuzela",
-          "description": "Vuvuzela is a messaging system that protects the privacy of message contents and message metadata. Users communicating through Vuvuzela do not reveal who they are talking to, even in the presence of powerful nation-state adversaries.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2019-09-12T15:41:22Z",
-            "owner": "vuvuzela",
-            "repo": "vuvuzela",
-            "stars": 2485
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "v2ray",
+              "description": "A platform for building proxies to bypass network restrictions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41912791,
+                "language": "Go",
+                "last_commit": "2026-07-13T03:22:29Z",
+                "owner": "v2ray",
+                "repo": "v2ray-core",
+                "stars": 46933
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "algo",
+              "description": "Set up a personal VPN in the cloud",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 58842707,
+                "language": "Python",
+                "last_commit": "2026-08-19T08:43:19Z",
+                "owner": "trailofbits",
+                "repo": "algo",
+                "stars": 30355
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "streisand",
+              "description": "single command set for a server running a wide variety of anti-censorship software",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 18044526,
+                "language": "Shell",
+                "last_commit": "2021-05-04T09:42:40Z",
+                "owner": "StreisandEffect",
+                "repo": "streisand",
+                "stars": 23462
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "trojan",
+              "description": "An unidentifiable mechanism that helps you bypass GFW",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107794782,
+                "language": "C++",
+                "last_commit": "2024-08-21T09:27:36Z",
+                "owner": "trojan-gfw",
+                "repo": "trojan",
+                "stars": 19747
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gost",
+              "description": "GO Simple Tunnel - a simple tunnel written in golang",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32575637,
+                "language": "Go",
+                "last_commit": "2024-12-31T13:08:51Z",
+                "owner": "ginuerzh",
+                "repo": "gost",
+                "stars": 18175
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lantern",
+              "description": "Lantern is a free desktop application that delivers fast, reliable and secure access to the open Internet for users in censored regions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1380117,
+                "language": "Dart",
+                "last_commit": "2026-08-19T04:41:25Z",
+                "owner": "getlantern",
+                "repo": "lantern",
+                "stars": 15887
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NaïveProxy",
+              "description": "NaïveProxy uses Chrome's network stack to camouflage traffic with stronger censorship resistence and less detectablility than custom-made network stacks (Shadowsocks and variants, V2Ray suite, handmade Golang stacks).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119178893,
+                "language": "C++",
+                "last_commit": "2026-07-03T14:09:55Z",
+                "owner": "klzgrad",
+                "repo": "naiveproxy",
+                "stars": 9392
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iodine",
+              "description": "This is a piece of software that lets you tunnel IPv4 data through a DNS server. This can be usable in different situations where internet access is firewalled, but DNS queries are allowed.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3354902,
+                "language": "C",
+                "last_commit": "2025-09-04T19:18:00Z",
+                "owner": "yarrick",
+                "repo": "iodine",
+                "stars": 7949
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MTProxy",
+              "description": "Proxy server which helps telegram users who are inside censored areas still be able to connect to telegram",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135348215,
+                "language": "C",
+                "last_commit": "2026-08-04T15:42:31Z",
+                "owner": "TelegramMessenger",
+                "repo": "MTProxy",
+                "stars": 6897
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "firefly-proxy",
+              "description": "A proxy software to help circumventing the Great Firewall.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26194471,
+                "language": "Go",
+                "last_commit": "2018-11-14T09:18:47Z",
+                "owner": "yinghuocho",
+                "repo": "firefly-proxy",
+                "stars": 4807
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "chnroutes",
+              "description": "modifies the route table to route only censored ips through vpn",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5279985,
+                "language": "Python",
+                "last_commit": "2018-09-06T08:02:57Z",
+                "owner": "fivesheep",
+                "repo": "chnroutes",
+                "stars": 3101
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gohop",
+              "description": "A VPN implemention in golang, with crypto and obfuscation in nature.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10823778,
+                "language": "Shell",
+                "last_commit": "2019-02-09T02:11:59Z",
+                "owner": "bigeagle",
+                "repo": "gohop",
+                "stars": 1363
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "facebook-tunnel",
+              "description": "Tunneling Internet traffic over FB chat.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14995356,
+                "language": "Roff",
+                "last_commit": "2016-06-29T12:30:33Z",
+                "owner": "matiasinsaurralde",
+                "repo": "facebook-tunnel",
+                "stars": 1289
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "obfs4",
+              "description": "the newest version of the Tor obfsproxy obfuscation proxy. implements multiple pluggable transports.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19607353,
+                "language": "Go",
+                "last_commit": "2023-11-15T20:20:29Z",
+                "owner": "Yawning",
+                "repo": "obfs4",
+                "stars": 1248
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "obfuscated-openssh",
+              "description": "Handshake obfuscation strengthens the initial SSH handshake against systems that identify or classify various network protocols by examining data in transit for static signatures.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2647993,
+                "language": "C",
+                "last_commit": "2011-10-26T01:14:13Z",
+                "owner": "brl",
+                "repo": "obfuscated-openssh",
+                "stars": 436
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dust",
+              "description": "A Polymorphic Engine for Filtering-Resistant Transport Protocols",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 261995,
+                "language": "Python",
+                "last_commit": "2023-02-25T01:41:07Z",
+                "owner": "blanu",
+                "repo": "Dust",
+                "stars": 285
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FTE",
+              "description": "fteproxy provides transport-layer protection to resist keyword filtering, censorship and discriminatory routing policies",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10440089,
+                "language": "Python",
+                "last_commit": "2026-08-17T20:52:30Z",
+                "owner": "kpdyer",
+                "repo": "fteproxy",
+                "stars": 155
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "telex",
+              "description": "involves placing anticensorship technology into the Internet's core network infrastructure, through cooperation from large ISPs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1970081,
+                "language": "C++",
+                "last_commit": "2016-03-14T23:16:26Z",
+                "owner": "ewust",
+                "repo": "telex",
+                "stars": 142
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fwlite",
+              "description": "A powerful HTTP proxy server designed to circumvent the Great Firewall (GFW)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15841927,
+                "language": "Python",
+                "last_commit": "2024-02-17T04:36:45Z",
+                "owner": "v3aqb",
+                "repo": "fwlite",
+                "stars": 136
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "marionette",
+              "description": "Marionette is a programmable client-server proxy that enables the user to control network traffic features with a lightweight domain-specific language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33551945,
+                "language": "Python",
+                "last_commit": "2026-08-19T10:36:24Z",
+                "owner": "marionette-tg",
+                "repo": "marionette",
+                "stars": 112
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "go-packetflagon",
+              "description": "A local HTTP application that serves customised Proxy Auto Configuration files for your browser to help bypass Internet censorship.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55233076,
+                "language": "CSS",
+                "last_commit": "2016-04-20T18:33:25Z",
+                "owner": "BrassHornCommunications",
+                "repo": "go-packetflagon",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Network tunnels"
         },
         {
-          "node_type": "item",
-          "title": "whonix",
-          "description": "Whonix is an operating system focused on anonymity, privacy and security. It's based on the Tor anonymity network, Debian GNU/Linux and security by isolation. DNS leaks are impossible, and not even malware with root privileges can find out the user's real IP.",
-          "children": []
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ipfs",
+              "description": "IPFS is a global, versioned, peer-to-peer filesystem (awesome list)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16722900,
+                "language": null,
+                "last_commit": "2025-05-01T07:37:22Z",
+                "owner": "ipfs",
+                "repo": "ipfs",
+                "stars": 23054
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ZeroNet",
+              "description": "Decentralized websites using Bitcoin crypto and the BitTorrent network",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29112049,
+                "language": "JavaScript",
+                "last_commit": "2024-01-31T07:47:58Z",
+                "owner": "HelloZeroNet",
+                "repo": "ZeroNet",
+                "stars": 18765
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dat",
+              "description": "a decentralized tool for distributing data (awesome list)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10985948,
+                "language": "JavaScript",
+                "last_commit": "2023-05-07T20:39:11Z",
+                "owner": "dat-ecosystem",
+                "repo": "dat",
+                "stars": 8228
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tribler",
+              "description": "Privacy enhanced BitTorrent client with P2P content discovery",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8411137,
+                "language": "Python",
+                "last_commit": "2026-07-17T14:23:13Z",
+                "owner": "Tribler",
+                "repo": "tribler",
+                "stars": 5297
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sovereign",
+              "description": "Censorship resistant democracies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48528437,
+                "language": "JavaScript",
+                "last_commit": "2023-03-04T02:45:37Z",
+                "owner": "DemocracyEarth",
+                "repo": "wallet",
+                "stars": 1512
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "twister",
+              "description": "twister is an experimental peer-to-peer microblogging software.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15529327,
+                "language": "C++",
+                "last_commit": "2024-01-18T22:45:09Z",
+                "owner": "miguelfreitas",
+                "repo": "twister-core",
+                "stars": 1405
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Decentralized systems"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GoodbyeDPI",
+              "description": "Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91493088,
+                "language": "C",
+                "last_commit": "2026-01-19T12:59:23Z",
+                "owner": "ValdikSS",
+                "repo": "GoodbyeDPI",
+                "stars": 28576
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/gfwlist/gfwlist",
+              "description": "Great Firewall of China ban list",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32157172,
+                "language": null,
+                "last_commit": "2026-08-19T02:15:46Z",
+                "owner": "gfwlist",
+                "repo": "gfwlist",
+                "stars": 25529
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChinaDNS",
+              "description": "Protect yourself against DNS poisoning in China.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22201118,
+                "language": "C",
+                "last_commit": "2020-05-03T10:00:17Z",
+                "owner": "shadowsocks",
+                "repo": "ChinaDNS",
+                "stars": 3603
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BlockCheck",
+              "description": "A script that detects what kind of blocking (DNS, IP, DPI) your ISP is using (for Russia).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 21353016,
+                "language": "Python",
+                "last_commit": "2022-03-29T13:29:05Z",
+                "owner": "ValdikSS",
+                "repo": "blockcheck",
+                "stars": 1392
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ooni-probe",
+              "description": "OONI Probe network measurement tool for detecting internet censorship https://ooni.io",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3944100,
+                "language": null,
+                "last_commit": "2025-01-31T17:02:27Z",
+                "owner": "ooni",
+                "repo": "probe",
+                "stars": 912
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gfw_whitelist",
+              "description": "A Pac File of the Whitelisted Websites for the Great Firewall of China (GFW)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7244831,
+                "language": "JavaScript",
+                "last_commit": "2017-05-31T02:22:34Z",
+                "owner": "n0wa11",
+                "repo": "gfw_whitelist",
+                "stars": 712
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "antizapret",
+              "description": "List of Russian government's IP addresses.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10932905,
+                "language": "Shell",
+                "last_commit": "2018-09-24T11:20:48Z",
+                "owner": "AntiZapret",
+                "repo": "antizapret",
+                "stars": 578
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DPITunnel",
+              "description": "DPI Tunnel is an application for Android that uses various techniques to bypass DPI (Deep Packet Inspection) systems, which are used to block some sites.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 583371941,
+                "language": null,
+                "last_commit": "2022-12-29T15:27:02Z",
+                "owner": "zhenyolka",
+                "repo": "DPITunnel",
+                "stars": 41
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Firewall analysis"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DissidentX",
+              "description": "DissidentX is encoding messages in files on the web.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7613828,
+                "language": "Python",
+                "last_commit": "2014-04-23T23:03:11Z",
+                "owner": "bramcohen",
+                "repo": "DissidentX",
+                "stars": 497
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PixelKnot",
+              "description": "image steganography for Android.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7073067,
+                "language": "Java",
+                "last_commit": "2024-03-06T21:01:55Z",
+                "owner": "guardianproject",
+                "repo": "PixelKnot",
+                "stars": 227
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Steganography"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cachebrowser",
+              "description": "CacheBrowser is a system designed to help Internet users bypass Internet censorship. The core idea ofCacheBrowser is to grab censored content cached byContent Delivery Networks such asAkamai andCloudFlare directly from their CDN edge servers, therefore, foiling censors' DNS interference.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45493844,
+                "language": "Python",
+                "last_commit": "2018-04-12T00:03:12Z",
+                "owner": "CacheBrowser",
+                "repo": "cachebrowser",
+                "stars": 974
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Misc"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "personal-security-checklist",
+              "description": "A curated list of links and tips, to protect privacy and improve security",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123631418,
+                "language": "TypeScript",
+                "last_commit": "2026-02-28T16:37:20Z",
+                "owner": "lissy93",
+                "repo": "personal-security-checklist",
+                "stars": 22129
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-vpn",
+              "description": "A curated list of awesome free VPNs and proxies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146239863,
+                "language": "Python",
+                "last_commit": "2026-08-19T00:47:48Z",
+                "owner": "awesome-vpn",
+                "repo": "awesome-vpn",
+                "stars": 6115
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-privacy",
+              "description": "Limiting personal data leaks on the internet",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95905717,
+                "language": null,
+                "last_commit": "2024-01-23T03:02:09Z",
+                "owner": "KevinColemanInc",
+                "repo": "awesome-privacy",
+                "stars": 1027
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Related awesome lists"
         }
       ],
-      "title": "Privacy and anonymity"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "v2ray",
-          "description": "A platform for building proxies to bypass network restrictions",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-13T03:22:29Z",
-            "owner": "v2ray",
-            "repo": "v2ray-core",
-            "stars": 46931
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "algo",
-          "description": "Set up a personal VPN in the cloud",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T08:46:21Z",
-            "owner": "trailofbits",
-            "repo": "algo",
-            "stars": 30355
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "streisand",
-          "description": "single command set for a server running a wide variety of anti-censorship software",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Shell",
-            "last_commit": "2021-05-04T09:42:40Z",
-            "owner": "StreisandEffect",
-            "repo": "streisand",
-            "stars": 23462
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "trojan",
-          "description": "An unidentifiable mechanism that helps you bypass GFW",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-08-21T09:27:36Z",
-            "owner": "trojan-gfw",
-            "repo": "trojan",
-            "stars": 19747
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gost",
-          "description": "GO Simple Tunnel - a simple tunnel written in golang",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-12-31T13:08:51Z",
-            "owner": "ginuerzh",
-            "repo": "gost",
-            "stars": 18173
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lantern",
-          "description": "Lantern is a free desktop application that delivers fast, reliable and secure access to the open Internet for users in censored regions",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2026-08-19T01:15:27Z",
-            "owner": "getlantern",
-            "repo": "lantern",
-            "stars": 15888
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NaïveProxy",
-          "description": "NaïveProxy uses Chrome's network stack to camouflage traffic with stronger censorship resistence and less detectablility than custom-made network stacks (Shadowsocks and variants, V2Ray suite, handmade Golang stacks).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-07-03T14:09:55Z",
-            "owner": "klzgrad",
-            "repo": "naiveproxy",
-            "stars": 9390
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "iodine",
-          "description": "This is a piece of software that lets you tunnel IPv4 data through a DNS server. This can be usable in different situations where internet access is firewalled, but DNS queries are allowed.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-09-04T19:18:00Z",
-            "owner": "yarrick",
-            "repo": "iodine",
-            "stars": 7949
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MTProxy",
-          "description": "Proxy server which helps telegram users who are inside censored areas still be able to connect to telegram",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-04T15:42:31Z",
-            "owner": "TelegramMessenger",
-            "repo": "MTProxy",
-            "stars": 6897
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "firefly-proxy",
-          "description": "A proxy software to help circumventing the Great Firewall.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2018-11-14T09:18:47Z",
-            "owner": "yinghuocho",
-            "repo": "firefly-proxy",
-            "stars": 4808
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "chnroutes",
-          "description": "modifies the route table to route only censored ips through vpn",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-09-06T08:02:57Z",
-            "owner": "fivesheep",
-            "repo": "chnroutes",
-            "stars": 3101
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gohop",
-          "description": "A VPN implemention in golang, with crypto and obfuscation in nature.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2019-02-09T02:11:59Z",
-            "owner": "bigeagle",
-            "repo": "gohop",
-            "stars": 1362
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "facebook-tunnel",
-          "description": "Tunneling Internet traffic over FB chat.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Roff",
-            "last_commit": "2016-06-29T12:30:33Z",
-            "owner": "matiasinsaurralde",
-            "repo": "facebook-tunnel",
-            "stars": 1289
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "obfs4",
-          "description": "the newest version of the Tor obfsproxy obfuscation proxy. implements multiple pluggable transports.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-11-15T20:20:29Z",
-            "owner": "Yawning",
-            "repo": "obfs4",
-            "stars": 1248
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "obfuscated-openssh",
-          "description": "Handshake obfuscation strengthens the initial SSH handshake against systems that identify or classify various network protocols by examining data in transit for static signatures.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2011-10-26T01:14:13Z",
-            "owner": "brl",
-            "repo": "obfuscated-openssh",
-            "stars": 436
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dust",
-          "description": "A Polymorphic Engine for Filtering-Resistant Transport Protocols",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-02-25T01:41:07Z",
-            "owner": "blanu",
-            "repo": "Dust",
-            "stars": 285
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FTE",
-          "description": "fteproxy provides transport-layer protection to resist keyword filtering, censorship and discriminatory routing policies",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T20:52:30Z",
-            "owner": "kpdyer",
-            "repo": "fteproxy",
-            "stars": 155
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "telex",
-          "description": "involves placing anticensorship technology into the Internet's core network infrastructure, through cooperation from large ISPs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2016-03-14T23:16:26Z",
-            "owner": "ewust",
-            "repo": "telex",
-            "stars": 142
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fwlite",
-          "description": "A powerful HTTP proxy server designed to circumvent the Great Firewall (GFW)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-02-17T04:36:45Z",
-            "owner": "v3aqb",
-            "repo": "fwlite",
-            "stars": 136
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "marionette",
-          "description": "Marionette is a programmable client-server proxy that enables the user to control network traffic features with a lightweight domain-specific language.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T16:47:09Z",
-            "owner": "marionette-tg",
-            "repo": "marionette",
-            "stars": 112
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "go-packetflagon",
-          "description": "A local HTTP application that serves customised Proxy Auto Configuration files for your browser to help bypass Internet censorship.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2016-04-20T18:33:25Z",
-            "owner": "BrassHornCommunications",
-            "repo": "go-packetflagon",
-            "stars": 14
-          }
-        }
-      ],
-      "title": "Network tunnels"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ipfs",
-          "description": "IPFS is a global, versioned, peer-to-peer filesystem (awesome list)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-05-01T07:37:22Z",
-            "owner": "ipfs",
-            "repo": "ipfs",
-            "stars": 23054
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ZeroNet",
-          "description": "Decentralized websites using Bitcoin crypto and the BitTorrent network",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-01-31T07:47:58Z",
-            "owner": "HelloZeroNet",
-            "repo": "ZeroNet",
-            "stars": 18765
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dat",
-          "description": "a decentralized tool for distributing data (awesome list)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-05-07T20:39:11Z",
-            "owner": "dat-ecosystem",
-            "repo": "dat",
-            "stars": 8228
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tribler",
-          "description": "Privacy enhanced BitTorrent client with P2P content discovery",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-17T14:23:13Z",
-            "owner": "Tribler",
-            "repo": "tribler",
-            "stars": 5297
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sovereign",
-          "description": "Censorship resistant democracies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-03-04T02:45:37Z",
-            "owner": "DemocracyEarth",
-            "repo": "wallet",
-            "stars": 1512
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "twister",
-          "description": "twister is an experimental peer-to-peer microblogging software.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-01-18T22:45:09Z",
-            "owner": "miguelfreitas",
-            "repo": "twister-core",
-            "stars": 1405
-          }
-        }
-      ],
-      "title": "Decentralized systems"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "GoodbyeDPI",
-          "description": "Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-01-19T12:59:23Z",
-            "owner": "ValdikSS",
-            "repo": "GoodbyeDPI",
-            "stars": 28575
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/gfwlist/gfwlist",
-          "description": "Great Firewall of China ban list",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-19T02:15:46Z",
-            "owner": "gfwlist",
-            "repo": "gfwlist",
-            "stars": 25527
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ChinaDNS",
-          "description": "Protect yourself against DNS poisoning in China.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2020-05-03T10:00:17Z",
-            "owner": "shadowsocks",
-            "repo": "ChinaDNS",
-            "stars": 3603
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BlockCheck",
-          "description": "A script that detects what kind of blocking (DNS, IP, DPI) your ISP is using (for Russia).",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2022-03-29T13:29:05Z",
-            "owner": "ValdikSS",
-            "repo": "blockcheck",
-            "stars": 1392
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ooni-probe",
-          "description": "OONI Probe network measurement tool for detecting internet censorship https://ooni.io",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-01-31T17:02:27Z",
-            "owner": "ooni",
-            "repo": "probe",
-            "stars": 912
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gfw_whitelist",
-          "description": "A Pac File of the Whitelisted Websites for the Great Firewall of China (GFW)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-05-31T02:22:34Z",
-            "owner": "n0wa11",
-            "repo": "gfw_whitelist",
-            "stars": 712
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "antizapret",
-          "description": "List of Russian government's IP addresses.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2018-09-24T11:20:48Z",
-            "owner": "AntiZapret",
-            "repo": "antizapret",
-            "stars": 578
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DPITunnel",
-          "description": "DPI Tunnel is an application for Android that uses various techniques to bypass DPI (Deep Packet Inspection) systems, which are used to block some sites.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-12-29T15:27:02Z",
-            "owner": "zhenyolka",
-            "repo": "DPITunnel",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mongol",
-          "description": "A simple python tool to pinpoint the IP addresses of machines working for the Great Firewall of China.",
-          "children": []
-        }
-      ],
-      "title": "Firewall analysis"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "DissidentX",
-          "description": "DissidentX is encoding messages in files on the web.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2014-04-23T23:03:11Z",
-            "owner": "bramcohen",
-            "repo": "DissidentX",
-            "stars": 497
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PixelKnot",
-          "description": "image steganography for Android.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2024-03-06T21:01:55Z",
-            "owner": "guardianproject",
-            "repo": "PixelKnot",
-            "stars": 227
-          }
-        }
-      ],
-      "title": "Steganography"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "cachebrowser",
-          "description": "CacheBrowser is a system designed to help Internet users bypass Internet censorship. The core idea ofCacheBrowser is to grab censored content cached byContent Delivery Networks such asAkamai andCloudFlare directly from their CDN edge servers, therefore, foiling censors' DNS interference.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-04-12T00:03:12Z",
-            "owner": "CacheBrowser",
-            "repo": "cachebrowser",
-            "stars": 974
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rubberhose",
-          "description": "Julian Assange's deniable-encryption filesystem.",
-          "children": []
-        }
-      ],
-      "title": "Misc"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "personal-security-checklist",
-          "description": "A curated list of links and tips, to protect privacy and improve security",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-02-28T16:37:20Z",
-            "owner": "lissy93",
-            "repo": "personal-security-checklist",
-            "stars": 22129
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-vpn",
-          "description": "A curated list of awesome free VPNs and proxies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-19T00:47:48Z",
-            "owner": "awesome-vpn",
-            "repo": "awesome-vpn",
-            "stars": 6110
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-privacy",
-          "description": "Limiting personal data leaks on the internet",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-01-23T03:02:09Z",
-            "owner": "KevinColemanInc",
-            "repo": "awesome-privacy",
-            "stars": 1027
-          }
-        }
-      ],
-      "title": "Related awesome lists"
+      "title": "Categories"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:21:47.744Z",
+    "last_updated": "2026-08-19T12:15:59.566Z",
     "original_repository": "danoctavian/awesome-anti-censorship",
+    "original_repository_id": 42857309,
     "original_repository_sha": "0785d0826f2af197699069049beda0cb29cf67d5",
     "enhanced_repository": "enhansome/enhansome-anti-censorship",
     "enhanced_repository_description": null,
