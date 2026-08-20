@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 4457770,
                 "language": "Java",
-                "last_commit": "2026-08-19T00:20:23Z",
+                "last_commit": "2026-08-20T00:20:37Z",
                 "owner": "i2p",
                 "repo": "i2p.i2p",
                 "stars": 2682
@@ -84,7 +84,7 @@
                 "last_commit": "2021-05-04T09:42:40Z",
                 "owner": "StreisandEffect",
                 "repo": "streisand",
-                "stars": 23462
+                "stars": 23461
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2024-08-21T09:27:36Z",
                 "owner": "trojan-gfw",
                 "repo": "trojan",
-                "stars": 19747
+                "stars": 19748
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2024-12-31T13:08:51Z",
                 "owner": "ginuerzh",
                 "repo": "gost",
-                "stars": 18175
+                "stars": 18178
               }
             },
             {
@@ -126,10 +126,10 @@
                 "archived": false,
                 "id": 1380117,
                 "language": "Dart",
-                "last_commit": "2026-08-19T04:41:25Z",
+                "last_commit": "2026-08-20T00:59:47Z",
                 "owner": "getlantern",
                 "repo": "lantern",
-                "stars": 15887
+                "stars": 15889
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2026-07-03T14:09:55Z",
                 "owner": "klzgrad",
                 "repo": "naiveproxy",
-                "stars": 9392
+                "stars": 9394
               }
             },
             {
@@ -336,7 +336,7 @@
                 "archived": false,
                 "id": 33551945,
                 "language": "Python",
-                "last_commit": "2026-08-19T10:36:24Z",
+                "last_commit": "2026-08-19T14:11:54Z",
                 "owner": "marionette-tg",
                 "repo": "marionette",
                 "stars": 112
@@ -376,7 +376,7 @@
                 "last_commit": "2025-05-01T07:37:22Z",
                 "owner": "ipfs",
                 "repo": "ipfs",
-                "stars": 23054
+                "stars": 23053
               }
             },
             {
@@ -391,7 +391,7 @@
                 "last_commit": "2024-01-31T07:47:58Z",
                 "owner": "HelloZeroNet",
                 "repo": "ZeroNet",
-                "stars": 18765
+                "stars": 18766
               }
             },
             {
@@ -473,7 +473,7 @@
                 "last_commit": "2026-01-19T12:59:23Z",
                 "owner": "ValdikSS",
                 "repo": "GoodbyeDPI",
-                "stars": 28576
+                "stars": 28578
               }
             },
             {
@@ -488,7 +488,7 @@
                 "last_commit": "2026-08-19T02:15:46Z",
                 "owner": "gfwlist",
                 "repo": "gfwlist",
-                "stars": 25529
+                "stars": 25533
               }
             },
             {
@@ -659,7 +659,7 @@
                 "last_commit": "2026-02-28T16:37:20Z",
                 "owner": "lissy93",
                 "repo": "personal-security-checklist",
-                "stars": 22129
+                "stars": 22133
               }
             },
             {
@@ -671,10 +671,10 @@
                 "archived": false,
                 "id": 146239863,
                 "language": "Python",
-                "last_commit": "2026-08-19T00:47:48Z",
+                "last_commit": "2026-08-20T00:48:02Z",
                 "owner": "awesome-vpn",
                 "repo": "awesome-vpn",
-                "stars": 6115
+                "stars": 6119
               }
             },
             {
@@ -702,7 +702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:15:59.566Z",
+    "last_updated": "2026-08-20T02:21:06.724Z",
     "original_repository": "danoctavian/awesome-anti-censorship",
     "original_repository_id": 42857309,
     "original_repository_sha": "0785d0826f2af197699069049beda0cb29cf67d5",
