@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 4457770,
                 "language": "Java",
-                "last_commit": "2026-08-22T00:20:35Z",
+                "last_commit": "2026-08-23T00:22:20Z",
                 "owner": "i2p",
                 "repo": "i2p.i2p",
                 "stars": 2683
@@ -54,7 +54,7 @@
                 "last_commit": "2026-07-13T03:22:29Z",
                 "owner": "v2ray",
                 "repo": "v2ray-core",
-                "stars": 46935
+                "stars": 46934
               }
             },
             {
@@ -69,7 +69,7 @@
                 "last_commit": "2026-08-19T08:43:19Z",
                 "owner": "trailofbits",
                 "repo": "algo",
-                "stars": 30357
+                "stars": 30358
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2021-05-04T09:42:40Z",
                 "owner": "StreisandEffect",
                 "repo": "streisand",
-                "stars": 23461
+                "stars": 23462
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2024-08-21T09:27:36Z",
                 "owner": "trojan-gfw",
                 "repo": "trojan",
-                "stars": 19746
+                "stars": 19745
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2024-12-31T13:08:51Z",
                 "owner": "ginuerzh",
                 "repo": "gost",
-                "stars": 18184
+                "stars": 18186
               }
             },
             {
@@ -126,10 +126,10 @@
                 "archived": false,
                 "id": 1380117,
                 "language": "Dart",
-                "last_commit": "2026-08-22T02:13:07Z",
+                "last_commit": "2026-08-22T05:18:17Z",
                 "owner": "getlantern",
                 "repo": "lantern",
-                "stars": 15894
+                "stars": 15893
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2026-07-03T14:09:55Z",
                 "owner": "klzgrad",
                 "repo": "naiveproxy",
-                "stars": 9397
+                "stars": 9402
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2025-09-04T19:18:00Z",
                 "owner": "yarrick",
                 "repo": "iodine",
-                "stars": 7953
+                "stars": 7954
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2026-08-04T15:42:31Z",
                 "owner": "TelegramMessenger",
                 "repo": "MTProxy",
-                "stars": 6898
+                "stars": 6899
               }
             },
             {
@@ -391,7 +391,7 @@
                 "last_commit": "2024-01-31T07:47:58Z",
                 "owner": "HelloZeroNet",
                 "repo": "ZeroNet",
-                "stars": 18769
+                "stars": 18770
               }
             },
             {
@@ -421,7 +421,7 @@
                 "last_commit": "2026-07-17T14:23:13Z",
                 "owner": "Tribler",
                 "repo": "tribler",
-                "stars": 5300
+                "stars": 5301
               }
             },
             {
@@ -473,7 +473,7 @@
                 "last_commit": "2026-01-19T12:59:23Z",
                 "owner": "ValdikSS",
                 "repo": "GoodbyeDPI",
-                "stars": 28582
+                "stars": 28583
               }
             },
             {
@@ -485,10 +485,10 @@
                 "archived": false,
                 "id": 32157172,
                 "language": null,
-                "last_commit": "2026-08-21T02:55:16Z",
+                "last_commit": "2026-08-22T06:20:12Z",
                 "owner": "gfwlist",
                 "repo": "gfwlist",
-                "stars": 25539
+                "stars": 25540
               }
             },
             {
@@ -659,7 +659,7 @@
                 "last_commit": "2026-02-28T16:37:20Z",
                 "owner": "lissy93",
                 "repo": "personal-security-checklist",
-                "stars": 22153
+                "stars": 22159
               }
             },
             {
@@ -671,10 +671,10 @@
                 "archived": false,
                 "id": 146239863,
                 "language": "Python",
-                "last_commit": "2026-08-22T00:48:17Z",
+                "last_commit": "2026-08-23T00:53:04Z",
                 "owner": "awesome-vpn",
                 "repo": "awesome-vpn",
-                "stars": 6139
+                "stars": 6149
               }
             },
             {
@@ -702,7 +702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:19:17.654Z",
+    "last_updated": "2026-08-23T02:35:17.312Z",
     "original_repository": "danoctavian/awesome-anti-censorship",
     "original_repository_id": 42857309,
     "original_repository_sha": "0785d0826f2af197699069049beda0cb29cf67d5",
