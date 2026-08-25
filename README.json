@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 4457770,
                 "language": "Java",
-                "last_commit": "2026-08-24T00:21:41Z",
+                "last_commit": "2026-08-25T00:20:59Z",
                 "owner": "i2p",
                 "repo": "i2p.i2p",
                 "stars": 2684
@@ -84,7 +84,7 @@
                 "last_commit": "2021-05-04T09:42:40Z",
                 "owner": "StreisandEffect",
                 "repo": "streisand",
-                "stars": 23463
+                "stars": 23462
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2024-08-21T09:27:36Z",
                 "owner": "trojan-gfw",
                 "repo": "trojan",
-                "stars": 19747
+                "stars": 19746
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2024-12-31T13:08:51Z",
                 "owner": "ginuerzh",
                 "repo": "gost",
-                "stars": 18184
+                "stars": 18185
               }
             },
             {
@@ -126,7 +126,7 @@
                 "archived": false,
                 "id": 1380117,
                 "language": "Dart",
-                "last_commit": "2026-08-24T13:21:40Z",
+                "last_commit": "2026-08-24T21:41:35Z",
                 "owner": "getlantern",
                 "repo": "lantern",
                 "stars": 15898
@@ -144,7 +144,7 @@
                 "last_commit": "2026-07-03T14:09:55Z",
                 "owner": "klzgrad",
                 "repo": "naiveproxy",
-                "stars": 9405
+                "stars": 9407
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2026-08-04T15:42:31Z",
                 "owner": "TelegramMessenger",
                 "repo": "MTProxy",
-                "stars": 6903
+                "stars": 6904
               }
             },
             {
@@ -291,7 +291,7 @@
                 "archived": false,
                 "id": 10440089,
                 "language": "Python",
-                "last_commit": "2026-08-17T20:52:30Z",
+                "last_commit": "2026-08-24T19:59:15Z",
                 "owner": "kpdyer",
                 "repo": "fteproxy",
                 "stars": 155
@@ -421,7 +421,7 @@
                 "last_commit": "2026-07-17T14:23:13Z",
                 "owner": "Tribler",
                 "repo": "tribler",
-                "stars": 5301
+                "stars": 5302
               }
             },
             {
@@ -473,7 +473,7 @@
                 "last_commit": "2026-01-19T12:59:23Z",
                 "owner": "ValdikSS",
                 "repo": "GoodbyeDPI",
-                "stars": 28587
+                "stars": 28588
               }
             },
             {
@@ -533,7 +533,7 @@
                 "last_commit": "2025-01-31T17:02:27Z",
                 "owner": "ooni",
                 "repo": "probe",
-                "stars": 915
+                "stars": 918
               }
             },
             {
@@ -659,7 +659,7 @@
                 "last_commit": "2026-02-28T16:37:20Z",
                 "owner": "lissy93",
                 "repo": "personal-security-checklist",
-                "stars": 22173
+                "stars": 22176
               }
             },
             {
@@ -671,10 +671,10 @@
                 "archived": false,
                 "id": 146239863,
                 "language": "Python",
-                "last_commit": "2026-08-24T00:51:15Z",
+                "last_commit": "2026-08-25T00:51:49Z",
                 "owner": "awesome-vpn",
                 "repo": "awesome-vpn",
-                "stars": 6171
+                "stars": 6178
               }
             },
             {
@@ -702,7 +702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:11:16.920Z",
+    "last_updated": "2026-08-25T02:21:42.979Z",
     "original_repository": "danoctavian/awesome-anti-censorship",
     "original_repository_id": 42857309,
     "original_repository_sha": "0785d0826f2af197699069049beda0cb29cf67d5",
