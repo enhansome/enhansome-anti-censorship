@@ -126,10 +126,10 @@
                 "archived": false,
                 "id": 1380117,
                 "language": "Dart",
-                "last_commit": "2026-08-24T21:41:35Z",
+                "last_commit": "2026-08-25T05:26:53Z",
                 "owner": "getlantern",
                 "repo": "lantern",
-                "stars": 15898
+                "stars": 15899
               }
             },
             {
@@ -478,7 +478,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/gfwlist/gfwlist",
+              "title": "gfwlist/gfwlist",
               "description": "Great Firewall of China ban list",
               "children": [],
               "repo_info": {
@@ -488,7 +488,7 @@
                 "last_commit": "2026-08-23T06:48:08Z",
                 "owner": "gfwlist",
                 "repo": "gfwlist",
-                "stars": 25548
+                "stars": 25551
               }
             },
             {
@@ -659,7 +659,7 @@
                 "last_commit": "2026-02-28T16:37:20Z",
                 "owner": "lissy93",
                 "repo": "personal-security-checklist",
-                "stars": 22176
+                "stars": 22177
               }
             },
             {
@@ -674,7 +674,7 @@
                 "last_commit": "2026-08-25T00:51:49Z",
                 "owner": "awesome-vpn",
                 "repo": "awesome-vpn",
-                "stars": 6178
+                "stars": 6182
               }
             },
             {
@@ -702,7 +702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:21:42.979Z",
+    "last_updated": "2026-08-25T06:03:49.104Z",
     "original_repository": "danoctavian/awesome-anti-censorship",
     "original_repository_id": 42857309,
     "original_repository_sha": "0785d0826f2af197699069049beda0cb29cf67d5",
