@@ -54,7 +54,7 @@
                 "last_commit": "2026-07-13T03:22:29Z",
                 "owner": "v2ray",
                 "repo": "v2ray-core",
-                "stars": 46932
+                "stars": 46931
               }
             },
             {
@@ -473,7 +473,7 @@
                 "last_commit": "2026-01-19T12:59:23Z",
                 "owner": "ValdikSS",
                 "repo": "GoodbyeDPI",
-                "stars": 28588
+                "stars": 28589
               }
             },
             {
@@ -488,7 +488,7 @@
                 "last_commit": "2026-08-23T06:48:08Z",
                 "owner": "gfwlist",
                 "repo": "gfwlist",
-                "stars": 25555
+                "stars": 25556
               }
             },
             {
@@ -702,7 +702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:08:55.515Z",
+    "last_updated": "2026-08-27T11:23:55.045Z",
     "original_repository_info": {
       "archived": false,
       "id": 42857309,

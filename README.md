@@ -2,7 +2,7 @@
 
 > A curated list of open source tools and readings for fighting Internet censorship.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,355 | 🐛 105 | 📅 2026-08-21 list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,359 | 🐛 105 | 📅 2026-08-21 list.
 
 ## Categories
 
@@ -31,7 +31,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,355 |
 
 ### Network tunnels
 
-* [v2ray](https://github.com/v2ray/v2ray-core) ⭐ 46,932 | 🐛 16 | 🌐 Go | 📅 2026-07-13 - A platform for building proxies to bypass network restrictions
+* [v2ray](https://github.com/v2ray/v2ray-core) ⭐ 46,931 | 🐛 16 | 🌐 Go | 📅 2026-07-13 - A platform for building proxies to bypass network restrictions
 * [algo](https://github.com/trailofbits/algo) ⭐ 30,368 | 🐛 74 | 🌐 Python | 📅 2026-08-26 - Set up a personal VPN in the cloud
 * [streisand](https://github.com/jlund/streisand) ⚠️ Archived - single command set for a server running a wide variety of anti-censorship software
 * [trojan](https://github.com/trojan-gfw/trojan) ⭐ 19,749 | 🐛 98 | 🌐 C++ | 📅 2024-08-21 - An unidentifiable mechanism that helps you bypass GFW
@@ -81,8 +81,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,355 |
 
 ### Firewall analysis
 
-* [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) ⭐ 28,588 | 🐛 150 | 🌐 C | 📅 2026-01-19 - Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)
-* <https://github.com/gfwlist/gfwlist> ⭐ 25,555 | 🐛 2 | 📅 2026-08-23 - Great Firewall of China ban list
+* [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) ⭐ 28,589 | 🐛 150 | 🌐 C | 📅 2026-01-19 - Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)
+* <https://github.com/gfwlist/gfwlist> ⭐ 25,556 | 🐛 2 | 📅 2026-08-23 - Great Firewall of China ban list
 * [ChinaDNS](https://github.com/shadowsocks/ChinaDNS) ⭐ 3,606 | 🐛 44 | 🌐 C | 📅 2020-05-03 - Protect yourself against DNS poisoning in China.
 * [BlockCheck](https://github.com/ValdikSS/blockcheck) ⚠️ Archived - A script that detects what kind of blocking (DNS, IP, DPI) your ISP is using (for Russia).
 * [ooni-probe](https://github.com/ooni/probe) ⭐ 920 | 🐛 369 | 📅 2025-01-31 - OONI Probe network measurement tool for detecting internet censorship <https://ooni.io>
