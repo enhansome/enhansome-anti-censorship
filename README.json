@@ -12,12 +12,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties. ",
+                "homepage": "https://i2p.net",
                 "id": 4457770,
                 "language": "Java",
-                "last_commit": "2026-08-28T03:16:30Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T00:44:02Z",
+                "open_issues": 16,
                 "owner": "i2p",
                 "repo": "i2p.i2p",
-                "stars": 2685
+                "stars": 2686,
+                "topics": [
+                  "anonymity",
+                  "crypto",
+                  "i2p",
+                  "java",
+                  "monotone",
+                  "network",
+                  "p2p",
+                  "router"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -28,12 +42,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Private messaging system that hides metadata",
+                "homepage": "https://vuvuzela.io",
                 "id": 42053757,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2019-09-12T15:41:22Z",
+                "open_issues": 21,
                 "owner": "vuvuzela",
                 "repo": "vuvuzela",
-                "stars": 2485
+                "stars": 2485,
+                "topics": [
+                  "chat",
+                  "cryptography",
+                  "golang",
+                  "messaging",
+                  "metadata",
+                  "privacy",
+                  "research",
+                  "vuvuzela"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             }
@@ -51,12 +79,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A platform for building proxies to bypass network restrictions.",
+                "homepage": "https://www.v2ray.com/",
                 "id": 41912791,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T04:11:39Z",
+                "open_issues": 6,
                 "owner": "v2ray",
                 "repo": "v2ray-core",
-                "stars": 46931
+                "stars": 46932,
+                "topics": [
+                  "golang",
+                  "http-proxy",
+                  "proxy",
+                  "shadowsocks",
+                  "socks",
+                  "socks5",
+                  "v2ray",
+                  "vmess"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -67,12 +109,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Set up a personal VPN in the cloud",
+                "homepage": "https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/",
                 "id": 58842707,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-26T21:45:41Z",
+                "open_issues": 75,
                 "owner": "trailofbits",
                 "repo": "algo",
-                "stars": 30367
+                "stars": 30367,
+                "topics": [
+                  "ansible",
+                  "encryption",
+                  "ikev2",
+                  "ipsec",
+                  "security",
+                  "ssh-tunnel",
+                  "strongswan",
+                  "vpn",
+                  "vpn-client",
+                  "vpn-server",
+                  "wireguard"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -83,12 +142,30 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.",
+                "homepage": "https://twitter.com/streisandvpn",
                 "id": 18044526,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2021-05-04T09:42:40Z",
+                "open_issues": 237,
                 "owner": "StreisandEffect",
                 "repo": "streisand",
-                "stars": 23462
+                "stars": 23461,
+                "topics": [
+                  "ansible",
+                  "anyconnect",
+                  "censorship",
+                  "openconnect",
+                  "openvpn",
+                  "shadowsocks",
+                  "ssh",
+                  "streisand",
+                  "stunnel",
+                  "tor",
+                  "vpn",
+                  "wireguard"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -99,12 +176,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An unidentifiable mechanism that helps you bypass GFW.",
+                "homepage": "https://trojan-gfw.github.io/trojan/",
                 "id": 107794782,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2024-08-21T09:27:36Z",
+                "open_issues": 98,
                 "owner": "trojan-gfw",
                 "repo": "trojan",
-                "stars": 19750
+                "stars": 19750,
+                "topics": [
+                  "anticensorship",
+                  "antisurveillance",
+                  "bypass-gfw",
+                  "censorship-circumvention",
+                  "china",
+                  "gfw",
+                  "trojan"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -115,12 +205,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GO Simple Tunnel - a simple tunnel written in golang",
+                "homepage": null,
                 "id": 32575637,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-12-31T13:08:51Z",
+                "open_issues": 291,
                 "owner": "ginuerzh",
                 "repo": "gost",
-                "stars": 18194
+                "stars": 18195,
+                "topics": [
+                  "dns",
+                  "go",
+                  "golang",
+                  "http2",
+                  "kcp",
+                  "obfs4",
+                  "quic",
+                  "shadowsocks",
+                  "sni",
+                  "socks5",
+                  "ssh",
+                  "tls",
+                  "tunnel",
+                  "tuntap",
+                  "udp"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -131,12 +242,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source VPN for speed, privacy, and censorship circumvention. Free to download on Android, iOS, Windows, macOS, and Linux.",
+                "homepage": null,
                 "id": 1380117,
                 "language": "Dart",
-                "last_commit": "2026-08-27T19:38:07Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-28T20:09:58Z",
+                "open_issues": 40,
                 "owner": "getlantern",
                 "repo": "lantern",
-                "stars": 15919
+                "stars": 15916,
+                "topics": [
+                  "accelerator",
+                  "censorship",
+                  "circumvention",
+                  "gfw",
+                  "lantern",
+                  "router",
+                  "vpn"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -147,12 +271,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Make a fortune quietly",
+                "homepage": null,
                 "id": 119178893,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-03T14:09:55Z",
+                "open_issues": 10,
                 "owner": "klzgrad",
                 "repo": "naiveproxy",
-                "stars": 9411
+                "stars": 9415,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -163,12 +292,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official git repo for iodine dns tunnel",
+                "homepage": "https://code.kryo.se/iodine",
                 "id": 3354902,
                 "language": "C",
+                "license": "ISC",
                 "last_commit": "2025-09-04T19:18:00Z",
+                "open_issues": 29,
                 "owner": "yarrick",
                 "repo": "iodine",
-                "stars": 7957
+                "stars": 7958,
+                "topics": [
+                  "dns",
+                  "dns-tunnel",
+                  "hacktoberfest",
+                  "iodine",
+                  "tunnel",
+                  "vpn"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -179,12 +320,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 135348215,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-04T15:42:31Z",
+                "open_issues": 339,
                 "owner": "TelegramMessenger",
                 "repo": "MTProxy",
-                "stars": 6904
+                "stars": 6904,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -195,12 +341,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A proxy software to help circumventing the Great Firewall.",
+                "homepage": null,
                 "id": 26194471,
                 "language": "Go",
+                "license": "BSD-2-Clause",
                 "last_commit": "2018-11-14T09:18:47Z",
+                "open_issues": 500,
                 "owner": "yinghuocho",
                 "repo": "firefly-proxy",
-                "stars": 4807
+                "stars": 4808,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -211,12 +362,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "scripts help chinese netizen, who uses vpn to combat censorship, by modifying the route table so as routing only the censored ip to the vpn",
+                "homepage": null,
                 "id": 5279985,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-09-06T08:02:57Z",
+                "open_issues": 51,
                 "owner": "fivesheep",
                 "repo": "chnroutes",
-                "stars": 3101
+                "stars": 3101,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -227,12 +383,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A VPN implemention in golang, with crypto and obfuscation in nature.",
+                "homepage": null,
                 "id": 10823778,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2019-02-09T02:11:59Z",
+                "open_issues": 17,
                 "owner": "bigeagle",
                 "repo": "gohop",
-                "stars": 1364
+                "stars": 1364,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -243,12 +404,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tunneling Internet traffic over Facebook chat.",
+                "homepage": null,
                 "id": 14995356,
                 "language": "Roff",
+                "license": null,
                 "last_commit": "2016-06-29T12:30:33Z",
+                "open_issues": 11,
                 "owner": "matiasinsaurralde",
                 "repo": "facebook-tunnel",
-                "stars": 1289
+                "stars": 1289,
+                "topics": [
+                  "facebook",
+                  "tunnel",
+                  "tuntap"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -259,12 +429,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The obfourscator (Courtesy mirror)",
+                "homepage": "https://gitlab.com/yawning/obfs4",
                 "id": 19607353,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-15T20:20:29Z",
+                "open_issues": 2,
                 "owner": "Yawning",
                 "repo": "obfs4",
-                "stars": 1247
+                "stars": 1247,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -275,12 +450,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 2647993,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2011-10-26T01:14:13Z",
+                "open_issues": 9,
                 "owner": "brl",
                 "repo": "obfuscated-openssh",
-                "stars": 436
+                "stars": 436,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -291,12 +471,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Polymorphic Engine for Filtering-Resistant Transport Protocols",
+                "homepage": null,
                 "id": 261995,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-02-25T01:41:07Z",
+                "open_issues": 9,
                 "owner": "blanu",
                 "repo": "Dust",
-                "stars": 285
+                "stars": 285,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -307,12 +492,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "programmable proxy for censorship circumvention",
+                "homepage": null,
                 "id": 10440089,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T19:59:15Z",
+                "open_issues": 0,
                 "owner": "kpdyer",
                 "repo": "fteproxy",
-                "stars": 155
+                "stars": 155,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -323,12 +513,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Telex anticensorship prototype",
+                "homepage": "https://telex.cc",
                 "id": 1970081,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2016-03-14T23:16:26Z",
+                "open_issues": 2,
                 "owner": "ewust",
                 "repo": "telex",
-                "stars": 142
+                "stars": 142,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -339,12 +534,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A anti-censorship HTTP proxy with builtin shadowsocks support.",
+                "homepage": null,
                 "id": 15841927,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-02-17T04:36:45Z",
+                "open_issues": 5,
                 "owner": "v3aqb",
                 "repo": "fwlite",
-                "stars": 136
+                "stars": 136,
+                "topics": [
+                  "gfwlist",
+                  "http-proxy",
+                  "proxy",
+                  "shadowsocks"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -355,12 +560,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "the programmable network proxy",
+                "homepage": null,
                 "id": 33551945,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T17:36:20Z",
+                "open_issues": 3,
                 "owner": "marionette-tg",
                 "repo": "marionette",
-                "stars": 112
+                "stars": 112,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -371,12 +581,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A local HTTP application that serves customised Proxy Auto Configuration files for your browser to help bypass Internet censorship",
+                "homepage": null,
                 "id": 55233076,
                 "language": "CSS",
+                "license": "BSD-2-Clause",
                 "last_commit": "2016-04-20T18:33:25Z",
+                "open_issues": 0,
                 "owner": "BrassHornCommunications",
                 "repo": "go-packetflagon",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "anticensorship",
+                  "censorship-circumvention"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             }
@@ -394,12 +612,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Peer-to-peer hypermedia protocol",
+                "homepage": "https://ipfs.tech",
                 "id": 16722900,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-05-01T07:37:22Z",
+                "open_issues": 8,
                 "owner": "ipfs",
                 "repo": "ipfs",
-                "stars": 23056
+                "stars": 23058,
+                "topics": [
+                  "ipfs",
+                  "ipfs-protocol",
+                  "ipfs-web",
+                  "ipld",
+                  "js-ipfs",
+                  "multiformats",
+                  "p2p",
+                  "paper",
+                  "protocol"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -410,12 +643,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network",
+                "homepage": "https://zeronet.io",
                 "id": 29112049,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-01-31T07:47:58Z",
+                "open_issues": 781,
                 "owner": "HelloZeroNet",
                 "repo": "ZeroNet",
-                "stars": 18771
+                "stars": 18772,
+                "topics": [
+                  "anonymity",
+                  "anticensorship",
+                  "bitcoin",
+                  "bittorrent",
+                  "decentralized",
+                  "internet-freedom",
+                  "p2p",
+                  "python",
+                  "realtime",
+                  "tor",
+                  "torrent",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -426,12 +677,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":floppy_disk: peer-to-peer sharing & live syncronization of files via command line",
+                "homepage": "https://dat.foundation",
                 "id": 10985948,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-05-07T20:39:11Z",
+                "open_issues": 106,
                 "owner": "dat-ecosystem",
                 "repo": "dat",
-                "stars": 8228
+                "stars": 8228,
+                "topics": [
+                  "command-line",
+                  "dat",
+                  "dat-node",
+                  "dat-protocol"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -442,12 +703,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Privacy enhanced BitTorrent client with P2P content discovery",
+                "homepage": "https://www.tribler.org",
                 "id": 8411137,
                 "language": "Python",
-                "last_commit": "2026-07-17T14:23:13Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-28T13:28:24Z",
+                "open_issues": 100,
                 "owner": "Tribler",
                 "repo": "tribler",
-                "stars": 5306
+                "stars": 5306,
+                "topics": [
+                  "bittorrent",
+                  "decentralized",
+                  "p2p",
+                  "privacy",
+                  "python",
+                  "search",
+                  "streaming",
+                  "tor",
+                  "torrent-client"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -458,12 +734,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Censorship resistant democracies. ",
+                "homepage": "https://democracy.earth",
                 "id": 48528437,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-03-04T02:45:37Z",
+                "open_issues": 96,
                 "owner": "DemocracyEarth",
                 "repo": "wallet",
-                "stars": 1512
+                "stars": 1512,
+                "topics": [
+                  "blockchain",
+                  "crypto",
+                  "democracy",
+                  "ethereum",
+                  "freedom",
+                  "governance",
+                  "moloch",
+                  "vote",
+                  "web3"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -474,12 +765,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "twister core / daemon",
+                "homepage": null,
                 "id": 15529327,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-01-18T22:45:09Z",
+                "open_issues": 173,
                 "owner": "miguelfreitas",
                 "repo": "twister-core",
-                "stars": 1405
+                "stars": 1405,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             }
@@ -497,12 +793,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)",
+                "homepage": "https://ntc.party/c/community-software/goodbyedpi",
                 "id": 91493088,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-19T12:59:23Z",
+                "open_issues": 152,
                 "owner": "ValdikSS",
                 "repo": "GoodbyeDPI",
-                "stars": 28593
+                "stars": 28595,
+                "topics": [
+                  "anticensorship",
+                  "censorship-circumvention",
+                  "deep-packet-inspection",
+                  "dpi"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -513,12 +819,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The one and only one gfwlist here",
+                "homepage": null,
                 "id": 32157172,
                 "language": null,
+                "license": "LGPL-2.1",
                 "last_commit": "2026-08-28T03:01:02Z",
+                "open_issues": 2,
                 "owner": "gfwlist",
                 "repo": "gfwlist",
-                "stars": 25561
+                "stars": 25565,
+                "topics": [
+                  "anticensorship",
+                  "censorship",
+                  "censorship-circumvention",
+                  "china",
+                  "gfw"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -529,12 +846,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Protect yourself against DNS poisoning in China.",
+                "homepage": null,
                 "id": 22201118,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2020-05-03T10:00:17Z",
+                "open_issues": 44,
                 "owner": "shadowsocks",
                 "repo": "ChinaDNS",
-                "stars": 3606
+                "stars": 3606,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -545,12 +867,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Russian ISP blocking type checker NOTE: NOT WORKING CURRENTLY. ВНИМАНИЕ: НЕ РАБОТАЕТ НА ТЕКУЩИЙ МОМЕНТ",
+                "homepage": null,
                 "id": 21353016,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-03-29T13:29:05Z",
+                "open_issues": 16,
                 "owner": "ValdikSS",
                 "repo": "blockcheck",
-                "stars": 1392
+                "stars": 1392,
+                "topics": [
+                  "censorship-circumvention",
+                  "deep-packet-inspection",
+                  "dns",
+                  "dpi"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -561,12 +893,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OONI Probe network measurement tool for detecting internet censorship",
+                "homepage": "https://ooni.org/install",
                 "id": 3944100,
                 "language": null,
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-01-31T17:02:27Z",
+                "open_issues": 369,
                 "owner": "ooni",
                 "repo": "probe",
-                "stars": 920
+                "stars": 920,
+                "topics": [
+                  "ooniprobe"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -577,12 +916,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Pac File of the Whitelisted Websites for the Great Firewall of China (GFW)",
+                "homepage": null,
                 "id": 7244831,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-05-31T02:22:34Z",
+                "open_issues": 3,
                 "owner": "n0wa11",
                 "repo": "gfw_whitelist",
-                "stars": 712
+                "stars": 712,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -593,12 +937,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Список IP-адресов гос-органов для блокировки их на своих серверах в качестве отместки за #говносписок // List of Russian Government's related IP-addresses.",
+                "homepage": null,
                 "id": 10932905,
                 "language": "Shell",
+                "license": "CC0-1.0",
                 "last_commit": "2018-09-24T11:20:48Z",
+                "open_issues": 15,
                 "owner": "AntiZapret",
                 "repo": "antizapret",
-                "stars": 578
+                "stars": 578,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -609,12 +958,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "https://github.com/nomoresat/DPITunnel-android",
+                "homepage": "https://github.com/nomoresat/DPITunnel-android",
                 "id": 583371941,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-12-29T15:27:02Z",
+                "open_issues": 0,
                 "owner": "zhenyolka",
                 "repo": "DPITunnel",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             }
@@ -632,12 +986,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bram's steganographic framework",
+                "homepage": null,
                 "id": 7613828,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2014-04-23T23:03:11Z",
+                "open_issues": 1,
                 "owner": "bramcohen",
                 "repo": "DissidentX",
-                "stars": 498
+                "stars": 498,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -648,12 +1007,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Image stego app using the F5 algorithm",
+                "homepage": "https://dev.guardianproject.info/projects/pixelknot/wiki",
                 "id": 7073067,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2024-03-06T21:01:55Z",
+                "open_issues": 14,
                 "owner": "guardianproject",
                 "repo": "PixelKnot",
-                "stars": 227
+                "stars": 227,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             }
@@ -671,12 +1035,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A proxy-less censorship resistance tool",
+                "homepage": "https://www.cachebrowser.net",
                 "id": 45493844,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-04-12T00:03:12Z",
+                "open_issues": 9,
                 "owner": "CacheBrowser",
                 "repo": "cachebrowser",
-                "stars": 974
+                "stars": 974,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             }
@@ -694,12 +1063,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026",
+                "homepage": "https://digital-defense.io",
                 "id": 123631418,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-28T16:37:20Z",
+                "open_issues": 56,
                 "owner": "lissy93",
                 "repo": "personal-security-checklist",
-                "stars": 22202
+                "stars": 22206,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "censorship",
+                  "checklist",
+                  "cybersecurity",
+                  "defense",
+                  "hacktoberfest",
+                  "open-source",
+                  "privacy",
+                  "protection",
+                  "security",
+                  "security-tools",
+                  "surveillance"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -710,12 +1098,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free proxy node aggregator. Daily updated vmess/vless/trojan/ss. 免费 代理节点 翻墙 梯子 科学上网 机场订阅 网络加速 VPN 免翻墙每日更新 一键导入",
+                "homepage": "https://awesome-vpn.github.io",
                 "id": 146239863,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T08:18:06Z",
+                "open_issues": 0,
                 "owner": "awesome-vpn",
                 "repo": "awesome-vpn",
-                "stars": 6208
+                "stars": 6212,
+                "topics": [
+                  "clash",
+                  "clashvergerev",
+                  "fanqiang",
+                  "free",
+                  "geopolitics",
+                  "gfw",
+                  "mihomo",
+                  "shadowsocks",
+                  "sing-box",
+                  "singbox",
+                  "ss",
+                  "trojan",
+                  "v2ray",
+                  "v2rayn",
+                  "vless",
+                  "vmess",
+                  "xray"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             },
@@ -726,12 +1137,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💡Limiting personal data leaks on the internet",
+                "homepage": null,
                 "id": 95905717,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2024-01-23T03:02:09Z",
+                "open_issues": 16,
                 "owner": "KevinColemanInc",
                 "repo": "awesome-privacy",
-                "stars": 1029
+                "stars": 1029,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "hacktoberfest",
+                  "search-engine",
+                  "tor",
+                  "vpn"
+                ]
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
             }
@@ -745,15 +1168,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:41:27.533Z",
+    "last_updated": "2026-08-29T04:34:59.848Z",
     "original_repository_info": {
       "archived": false,
+      "description": "curated list of open-source anti-censorship tools",
+      "homepage": null,
       "id": 42857309,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-08-02T11:45:45Z",
+      "open_issues": 21,
       "owner": "danoctavian",
       "repo": "awesome-anti-censorship",
-      "stars": 1446
+      "stars": 1446,
+      "topics": [
+        "anticensorship",
+        "awesome",
+        "censorship",
+        "censorship-circumvention",
+        "decentralized",
+        "firewall",
+        "p2p",
+        "proxy",
+        "tunnel"
+      ]
     },
     "original_repository_sha": "0785d0826f2af197699069049beda0cb29cf67d5",
     "enhanced_repository": "enhansome/enhansome-anti-censorship",
