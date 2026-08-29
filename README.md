@@ -2,7 +2,7 @@
 
 > A curated list of open source tools and readings for fighting Internet censorship.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21 list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,934 | 🐛 105 | 📅 2026-08-21 list.
 
 ## Categories
 
@@ -31,8 +31,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,891 |
 
 ### Network tunnels
 
-* [v2ray](https://github.com/v2ray/v2ray-core) ⭐ 46,932 | 🐛 6 | 🌐 Go | 📅 2026-08-28 - A platform for building proxies to bypass network restrictions
-* [algo](https://github.com/trailofbits/algo) ⭐ 30,367 | 🐛 75 | 🌐 Python | 📅 2026-08-26 - Set up a personal VPN in the cloud
+* [v2ray](https://github.com/v2ray/v2ray-core) ⭐ 46,933 | 🐛 6 | 🌐 Go | 📅 2026-08-28 - A platform for building proxies to bypass network restrictions
+* [algo](https://github.com/trailofbits/algo) ⭐ 30,368 | 🐛 75 | 🌐 Python | 📅 2026-08-26 - Set up a personal VPN in the cloud
 * [streisand](https://github.com/jlund/streisand) ⚠️ Archived - single command set for a server running a wide variety of anti-censorship software
 * [trojan](https://github.com/trojan-gfw/trojan) ⭐ 19,750 | 🐛 98 | 🌐 C++ | 📅 2024-08-21 - An unidentifiable mechanism that helps you bypass GFW
 * [gost](https://github.com/ginuerzh/gost) ⭐ 18,195 | 🐛 291 | 🌐 Go | 📅 2024-12-31 - GO Simple Tunnel - a simple tunnel written in golang
@@ -70,7 +70,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,891 |
 ### Decentralized systems
 
 * [ipfs](https://github.com/ipfs/ipfs) ⭐ 23,058 | 🐛 8 | 📅 2025-05-01 - IPFS is a global, versioned, peer-to-peer filesystem ([awesome list](https://github.com/ipfs/awesome-ipfs) ⭐ 4,607 | 🐛 18 | 🌐 JavaScript | 📅 2025-11-13)
-* [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) ⭐ 18,772 | 🐛 781 | 🌐 JavaScript | 📅 2024-01-31 - Decentralized websites using Bitcoin crypto and the BitTorrent network
+* [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) ⭐ 18,773 | 🐛 781 | 🌐 JavaScript | 📅 2024-01-31 - Decentralized websites using Bitcoin crypto and the BitTorrent network
 * [dat](https://github.com/datproject/dat) ⭐ 8,228 | 🐛 106 | 🌐 JavaScript | 📅 2023-05-07 - a decentralized tool for distributing data ([awesome list](https://github.com/clkao/awesome-dat) ⭐ 96 | 🐛 6 | 📅 2017-08-11)
 * [tribler](https://github.com/Tribler/tribler) ⭐ 5,306 | 🐛 100 | 🌐 Python | 📅 2026-08-28 - Privacy enhanced BitTorrent client with P2P content discovery
 * [sovereign](https://github.com/DemocracyEarth/sovereign) ⭐ 1,512 | 🐛 96 | 🌐 JavaScript | 📅 2023-03-04 - Censorship resistant democracies.
@@ -82,7 +82,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,891 |
 ### Firewall analysis
 
 * [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) ⭐ 28,595 | 🐛 152 | 🌐 C | 📅 2026-01-19 - Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)
-* <https://github.com/gfwlist/gfwlist> ⭐ 25,565 | 🐛 2 | 📅 2026-08-28 - Great Firewall of China ban list
+* <https://github.com/gfwlist/gfwlist> ⭐ 25,566 | 🐛 2 | 📅 2026-08-28 - Great Firewall of China ban list
 * [ChinaDNS](https://github.com/shadowsocks/ChinaDNS) ⭐ 3,606 | 🐛 44 | 🌐 C | 📅 2020-05-03 - Protect yourself against DNS poisoning in China.
 * [BlockCheck](https://github.com/ValdikSS/blockcheck) ⚠️ Archived - A script that detects what kind of blocking (DNS, IP, DPI) your ISP is using (for Russia).
 * [ooni-probe](https://github.com/ooni/probe) ⭐ 920 | 🐛 369 | 📅 2025-01-31 - OONI Probe network measurement tool for detecting internet censorship <https://ooni.io>
@@ -106,8 +106,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,891 |
 
 ### Related awesome lists
 
-* [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) ⭐ 22,206 | 🐛 56 | 🌐 TypeScript | 📅 2026-02-28 A curated list of links and tips, to protect privacy and improve security
-* [awesome-vpn](https://github.com/hugetiny/awesome-vpn) ⭐ 6,212 | 🐛 0 | 🌐 Python | 📅 2026-08-28 A curated list of awesome free VPNs and proxies.
+* [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) ⭐ 22,207 | 🐛 56 | 🌐 TypeScript | 📅 2026-02-28 A curated list of links and tips, to protect privacy and improve security
+* [awesome-vpn](https://github.com/hugetiny/awesome-vpn) ⭐ 6,213 | 🐛 0 | 🌐 Python | 📅 2026-08-29 A curated list of awesome free VPNs and proxies.
 * [awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) ⭐ 1,029 | 🐛 16 | 📅 2024-01-23 Limiting personal data leaks on the internet
 
 ### Articles and research papers

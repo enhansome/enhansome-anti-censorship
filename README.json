@@ -88,7 +88,7 @@
                 "open_issues": 6,
                 "owner": "v2ray",
                 "repo": "v2ray-core",
-                "stars": 46932,
+                "stars": 46933,
                 "topics": [
                   "golang",
                   "http-proxy",
@@ -118,7 +118,7 @@
                 "open_issues": 75,
                 "owner": "trailofbits",
                 "repo": "algo",
-                "stars": 30367,
+                "stars": 30368,
                 "topics": [
                   "ansible",
                   "encryption",
@@ -652,7 +652,7 @@
                 "open_issues": 781,
                 "owner": "HelloZeroNet",
                 "repo": "ZeroNet",
-                "stars": 18772,
+                "stars": 18773,
                 "topics": [
                   "anonymity",
                   "anticensorship",
@@ -828,7 +828,7 @@
                 "open_issues": 2,
                 "owner": "gfwlist",
                 "repo": "gfwlist",
-                "stars": 25565,
+                "stars": 25566,
                 "topics": [
                   "anticensorship",
                   "censorship",
@@ -876,7 +876,7 @@
                 "open_issues": 16,
                 "owner": "ValdikSS",
                 "repo": "blockcheck",
-                "stars": 1392,
+                "stars": 1391,
                 "topics": [
                   "censorship-circumvention",
                   "deep-packet-inspection",
@@ -1072,7 +1072,7 @@
                 "open_issues": 56,
                 "owner": "lissy93",
                 "repo": "personal-security-checklist",
-                "stars": 22206,
+                "stars": 22207,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1103,11 +1103,11 @@
                 "id": 146239863,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-28T08:18:06Z",
+                "last_commit": "2026-08-29T05:00:54Z",
                 "open_issues": 0,
                 "owner": "awesome-vpn",
                 "repo": "awesome-vpn",
-                "stars": 6212,
+                "stars": 6213,
                 "topics": [
                   "clash",
                   "clashvergerev",
@@ -1168,7 +1168,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:34:59.848Z",
+    "last_updated": "2026-08-29T07:49:02.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "curated list of open-source anti-censorship tools",
