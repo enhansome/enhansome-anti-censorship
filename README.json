@@ -21,7 +21,7 @@
                 "open_issues": 16,
                 "owner": "i2p",
                 "repo": "i2p.i2p",
-                "stars": 2693,
+                "stars": 2695,
                 "topics": [
                   "anonymity",
                   "crypto",
@@ -64,6 +64,48 @@
                 ]
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
+            },
+            {
+              "node_type": "item",
+              "title": "hidden lake",
+              "description": "Hidden Lake is a decentralized anonymous F2F (Friend-to-Friend) network with theoretical provability based on queues (QB task).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🔐 Library for developing secure, decentralized, anonymous and quantum-resistant networks in Go language",
+                "homepage": null,
+                "id": 217566321,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2026-08-14T04:03:03Z",
+                "open_issues": 0,
+                "owner": "number571",
+                "repo": "go-peer",
+                "stars": 327,
+                "topics": [
+                  "anonymity",
+                  "anonymous",
+                  "cryptography",
+                  "decentralized",
+                  "e2e-encryption",
+                  "f2f",
+                  "friend-to-friend",
+                  "golang",
+                  "gp12",
+                  "hidden-lake",
+                  "library",
+                  "network",
+                  "p2p",
+                  "peer-to-peer",
+                  "post-quantum",
+                  "privacy",
+                  "protocol",
+                  "qb-nets",
+                  "research",
+                  "research-paper"
+                ]
+              },
+              "first_seen": "2026-09-08T05:53:03.440Z"
             }
           ],
           "description": null,
@@ -88,7 +130,7 @@
                 "open_issues": 16,
                 "owner": "v2ray",
                 "repo": "v2ray-core",
-                "stars": 46936,
+                "stars": 46942,
                 "topics": [
                   "golang",
                   "http-proxy",
@@ -118,7 +160,7 @@
                 "open_issues": 77,
                 "owner": "trailofbits",
                 "repo": "algo",
-                "stars": 30365,
+                "stars": 30367,
                 "topics": [
                   "ansible",
                   "encryption",
@@ -151,7 +193,7 @@
                 "open_issues": 237,
                 "owner": "StreisandEffect",
                 "repo": "streisand",
-                "stars": 23456,
+                "stars": 23457,
                 "topics": [
                   "ansible",
                   "anyconnect",
@@ -185,7 +227,7 @@
                 "open_issues": 98,
                 "owner": "trojan-gfw",
                 "repo": "trojan",
-                "stars": 19756,
+                "stars": 19757,
                 "topics": [
                   "anticensorship",
                   "antisurveillance",
@@ -214,7 +256,7 @@
                 "open_issues": 291,
                 "owner": "ginuerzh",
                 "repo": "gost",
-                "stars": 18208,
+                "stars": 18213,
                 "topics": [
                   "dns",
                   "go",
@@ -247,11 +289,11 @@
                 "id": 1380117,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-05T10:56:38Z",
-                "open_issues": 42,
+                "last_commit": "2026-09-08T00:30:36Z",
+                "open_issues": 44,
                 "owner": "getlantern",
                 "repo": "lantern",
-                "stars": 15942,
+                "stars": 15944,
                 "topics": [
                   "accelerator",
                   "censorship",
@@ -277,10 +319,10 @@
                 "language": "C++",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-06T01:35:08Z",
-                "open_issues": 9,
+                "open_issues": 8,
                 "owner": "klzgrad",
                 "repo": "naiveproxy",
-                "stars": 9431,
+                "stars": 9437,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
@@ -301,7 +343,7 @@
                 "open_issues": 28,
                 "owner": "yarrick",
                 "repo": "iodine",
-                "stars": 7959,
+                "stars": 7962,
                 "topics": [
                   "dns",
                   "dns-tunnel",
@@ -329,7 +371,7 @@
                 "open_issues": 339,
                 "owner": "TelegramMessenger",
                 "repo": "MTProxy",
-                "stars": 6913,
+                "stars": 6916,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
@@ -445,6 +487,48 @@
             },
             {
               "node_type": "item",
+              "title": "amneziawg-installer",
+              "description": "Automated one-command setup of AmneziaWG 2.0 VPN on Ubuntu & Debian — an obfuscated WireGuard fork with DPI bypass, client management, and server hardening.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "One-command AmneziaWG 2.0 / 3.x installer for a self-hosted VPN server on Ubuntu and Debian: DPI bypass, traffic obfuscation, split tunneling, auto-hardening, client management. Includes a VPN cascade guide.",
+                "homepage": "https://bivlked.github.io/amneziawg-installer/",
+                "id": 965639932,
+                "language": "Shell",
+                "license": "MIT",
+                "last_commit": "2026-09-07T17:08:52Z",
+                "open_issues": 12,
+                "owner": "bivlked",
+                "repo": "amneziawg-installer",
+                "stars": 1226,
+                "topics": [
+                  "amneziawg",
+                  "anti-censorship",
+                  "arm64",
+                  "automation",
+                  "bash",
+                  "debian",
+                  "double-vpn",
+                  "dpi-bypass",
+                  "installer",
+                  "linux",
+                  "privacy",
+                  "raspberry-pi",
+                  "security",
+                  "self-hosted",
+                  "split-tunneling",
+                  "traffic-obfuscation",
+                  "ubuntu",
+                  "vpn",
+                  "vpn-server",
+                  "wireguard"
+                ]
+              },
+              "first_seen": "2026-09-08T05:53:03.440Z"
+            },
+            {
+              "node_type": "item",
               "title": "obfuscated-openssh",
               "description": "Handshake obfuscation strengthens the initial SSH handshake against systems that identify or classify various network protocols by examining data in transit for static signatures.",
               "children": [],
@@ -555,6 +639,48 @@
             },
             {
               "node_type": "item",
+              "title": "Hedioum Pool Tunnel",
+              "description": "A high-performance anti-DPI tunnel in Go that disguises VLESS/Trojan traffic as SSH, TLS/HTTPS, SMTP/IMAP or a DirectAdmin panel, with dynamic connection pools and real Let's Encrypt certificates.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "High-performance open-source anti-DPI / anti-censorship tunnel in Go. Hides VLESS/Trojan traffic behind a 16-mimic arsenal (SSH, TLS, mail, databases, cPanel/WHM/DirectAdmin/Grafana/Prometheus) in coherent personas. Real Let's Encrypt certs, full UDP/QUIC, TUN + transparent gateway mode, runs on MikroTik/RouterOS & Docker.",
+                "homepage": "https://hedioum.github.io/Hedioum-Pool-Tunnel/",
+                "id": 1261349883,
+                "language": "Go",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-19T11:21:12Z",
+                "open_issues": 2,
+                "owner": "hedioum",
+                "repo": "Hedioum-Pool-Tunnel",
+                "stars": 132,
+                "topics": [
+                  "anti-censorship",
+                  "censorship-circumvention",
+                  "docker",
+                  "dpi-bypass",
+                  "freedom",
+                  "gfw",
+                  "go",
+                  "golang",
+                  "iran",
+                  "mikrotik",
+                  "obfuscation",
+                  "privacy",
+                  "proxy",
+                  "quic",
+                  "routeros",
+                  "socks5",
+                  "tunnel",
+                  "vless",
+                  "vpn",
+                  "xray"
+                ]
+              },
+              "first_seen": "2026-09-08T05:53:03.440Z"
+            },
+            {
+              "node_type": "item",
               "title": "marionette",
               "description": "Marionette is a programmable client-server proxy that enables the user to control network traffic features with a lightweight domain-specific language.",
               "children": [],
@@ -597,6 +723,42 @@
                 ]
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Stunning",
+              "description": "Multi-protocol tunneling engine with composable anti-DPI plugin chains (TLS/HTTP mimicry, padding, traffic morphing) and access-control gates, written in Go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Multi-protocol network tunneling engine with composable anti-DPI plugin chains, access-control gates, and real-time metrics. Go.",
+                "homepage": null,
+                "id": 146158139,
+                "language": "Go",
+                "license": "GPL-3.0",
+                "last_commit": "2026-06-15T04:21:01Z",
+                "open_issues": 11,
+                "owner": "hbahadorzadeh",
+                "repo": "stunning",
+                "stars": 5,
+                "topics": [
+                  "anti-censorship",
+                  "anti-dpi",
+                  "circumvention",
+                  "dpi-bypass",
+                  "go",
+                  "golang",
+                  "hacktoberfest",
+                  "network",
+                  "proxy",
+                  "socks5",
+                  "stunnel",
+                  "tunnel",
+                  "tunneling",
+                  "vpn"
+                ]
+              },
+              "first_seen": "2026-09-08T05:53:03.440Z"
             }
           ],
           "description": null,
@@ -686,7 +848,7 @@
                 "open_issues": 106,
                 "owner": "dat-ecosystem",
                 "repo": "dat",
-                "stars": 8226,
+                "stars": 8227,
                 "topics": [
                   "command-line",
                   "dat",
@@ -712,7 +874,7 @@
                 "open_issues": 96,
                 "owner": "Tribler",
                 "repo": "tribler",
-                "stars": 5308,
+                "stars": 5309,
                 "topics": [
                   "bittorrent",
                   "decentralized",
@@ -802,7 +964,7 @@
                 "open_issues": 153,
                 "owner": "ValdikSS",
                 "repo": "GoodbyeDPI",
-                "stars": 28621,
+                "stars": 28622,
                 "topics": [
                   "anticensorship",
                   "censorship-circumvention",
@@ -825,10 +987,10 @@
                 "language": null,
                 "license": "LGPL-2.1",
                 "last_commit": "2026-09-05T05:39:27Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "gfwlist",
                 "repo": "gfwlist",
-                "stars": 25589,
+                "stars": 25593,
                 "topics": [
                   "anticensorship",
                   "censorship",
@@ -899,10 +1061,10 @@
                 "language": null,
                 "license": "BSD-3-Clause",
                 "last_commit": "2025-01-31T17:02:27Z",
-                "open_issues": 369,
+                "open_issues": 370,
                 "owner": "ooni",
                 "repo": "probe",
-                "stars": 919,
+                "stars": 921,
                 "topics": [
                   "ooniprobe"
                 ]
@@ -1016,7 +1178,7 @@
                 "open_issues": 14,
                 "owner": "guardianproject",
                 "repo": "PixelKnot",
-                "stars": 225,
+                "stars": 226,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
@@ -1068,11 +1230,11 @@
                 "id": 123631418,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T06:31:17Z",
+                "last_commit": "2026-09-07T11:54:46Z",
                 "open_issues": 52,
                 "owner": "lissy93",
                 "repo": "personal-security-checklist",
-                "stars": 22278,
+                "stars": 22283,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1103,11 +1265,11 @@
                 "id": 146239863,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-07T02:10:23Z",
+                "last_commit": "2026-09-08T02:22:30Z",
                 "open_issues": 0,
                 "owner": "awesome-vpn",
                 "repo": "awesome-vpn",
-                "stars": 6324,
+                "stars": 6339,
                 "topics": [
                   "clash",
                   "clashvergerev",
@@ -1146,7 +1308,7 @@
                 "open_issues": 16,
                 "owner": "KevinColemanInc",
                 "repo": "awesome-privacy",
-                "stars": 1030,
+                "stars": 1031,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1168,7 +1330,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T05:59:02.032Z",
+    "last_updated": "2026-09-08T05:53:03.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "curated list of open-source anti-censorship tools",
@@ -1176,11 +1338,11 @@
       "id": 42857309,
       "language": null,
       "license": "MIT",
-      "last_commit": "2025-08-02T11:45:45Z",
-      "open_issues": 22,
+      "last_commit": "2026-09-07T15:36:01Z",
+      "open_issues": 16,
       "owner": "danoctavian",
       "repo": "awesome-anti-censorship",
-      "stars": 1450,
+      "stars": 1451,
       "topics": [
         "anticensorship",
         "awesome",
@@ -1193,7 +1355,7 @@
         "tunnel"
       ]
     },
-    "original_repository_sha": "0785d0826f2af197699069049beda0cb29cf67d5",
+    "original_repository_sha": "dd8fb9c885e91e8a59fb1d4cd5333de88f9b5c9f",
     "enhanced_repository": "enhansome/enhansome-anti-censorship",
     "enhanced_repository_description": null,
     "title": "Awesome anti-censorship with stars"
