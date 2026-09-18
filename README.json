@@ -17,11 +17,11 @@
                 "id": 4457770,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-17T00:49:03Z",
-                "open_issues": 16,
+                "last_commit": "2026-09-18T00:48:40Z",
+                "open_issues": 18,
                 "owner": "i2p",
                 "repo": "i2p.i2p",
-                "stars": 2703,
+                "stars": 2702,
                 "topics": [
                   "anonymity",
                   "crypto",
@@ -130,7 +130,7 @@
                 "open_issues": 16,
                 "owner": "v2ray",
                 "repo": "v2ray-core",
-                "stars": 46935,
+                "stars": 46934,
                 "topics": [
                   "golang",
                   "http-proxy",
@@ -160,7 +160,7 @@
                 "open_issues": 77,
                 "owner": "trailofbits",
                 "repo": "algo",
-                "stars": 30384,
+                "stars": 30386,
                 "topics": [
                   "ansible",
                   "encryption",
@@ -193,7 +193,7 @@
                 "open_issues": 237,
                 "owner": "StreisandEffect",
                 "repo": "streisand",
-                "stars": 23452,
+                "stars": 23450,
                 "topics": [
                   "ansible",
                   "anyconnect",
@@ -227,7 +227,7 @@
                 "open_issues": 99,
                 "owner": "trojan-gfw",
                 "repo": "trojan",
-                "stars": 19760,
+                "stars": 19762,
                 "topics": [
                   "anticensorship",
                   "antisurveillance",
@@ -256,7 +256,7 @@
                 "open_issues": 291,
                 "owner": "ginuerzh",
                 "repo": "gost",
-                "stars": 18224,
+                "stars": 18226,
                 "topics": [
                   "dns",
                   "go",
@@ -289,11 +289,11 @@
                 "id": 1380117,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-16T14:03:35Z",
-                "open_issues": 38,
+                "last_commit": "2026-09-18T00:23:02Z",
+                "open_issues": 45,
                 "owner": "getlantern",
                 "repo": "lantern",
-                "stars": 15977,
+                "stars": 15985,
                 "topics": [
                   "accelerator",
                   "censorship",
@@ -322,7 +322,7 @@
                 "open_issues": 7,
                 "owner": "klzgrad",
                 "repo": "naiveproxy",
-                "stars": 9454,
+                "stars": 9457,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
@@ -339,11 +339,11 @@
                 "id": 3354902,
                 "language": "C",
                 "license": "ISC",
-                "last_commit": "2026-09-13T14:28:42Z",
-                "open_issues": 27,
+                "last_commit": "2026-09-17T08:43:01Z",
+                "open_issues": 26,
                 "owner": "yarrick",
                 "repo": "iodine",
-                "stars": 7976,
+                "stars": 7977,
                 "topics": [
                   "dns",
                   "dns-tunnel",
@@ -368,7 +368,7 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-08-04T15:42:31Z",
-                "open_issues": 339,
+                "open_issues": 340,
                 "owner": "TelegramMessenger",
                 "repo": "MTProxy",
                 "stars": 6917,
@@ -476,11 +476,11 @@
                 "id": 965639932,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-09-16T11:10:25Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-17T19:24:44Z",
+                "open_issues": 10,
                 "owner": "bivlked",
                 "repo": "amneziawg-installer",
-                "stars": 1267,
+                "stars": 1269,
                 "topics": [
                   "amneziawg",
                   "anti-censorship",
@@ -783,7 +783,7 @@
                 "open_issues": 8,
                 "owner": "ipfs",
                 "repo": "ipfs",
-                "stars": 23059,
+                "stars": 23058,
                 "topics": [
                   "ipfs",
                   "ipfs-protocol",
@@ -905,7 +905,7 @@
                 "open_issues": 96,
                 "owner": "DemocracyEarth",
                 "repo": "wallet",
-                "stars": 1510,
+                "stars": 1509,
                 "topics": [
                   "blockchain",
                   "crypto",
@@ -964,7 +964,7 @@
                 "open_issues": 153,
                 "owner": "ValdikSS",
                 "repo": "GoodbyeDPI",
-                "stars": 28649,
+                "stars": 28647,
                 "topics": [
                   "anticensorship",
                   "censorship-circumvention",
@@ -990,7 +990,7 @@
                 "open_issues": 2,
                 "owner": "gfwlist",
                 "repo": "gfwlist",
-                "stars": 25610,
+                "stars": 25608,
                 "topics": [
                   "anticensorship",
                   "censorship",
@@ -1064,7 +1064,7 @@
                 "open_issues": 369,
                 "owner": "ooni",
                 "repo": "probe",
-                "stars": 921,
+                "stars": 919,
                 "topics": [
                   "ooniprobe"
                 ]
@@ -1087,7 +1087,7 @@
                 "open_issues": 3,
                 "owner": "n0wa11",
                 "repo": "gfw_whitelist",
-                "stars": 713,
+                "stars": 712,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
@@ -1234,7 +1234,7 @@
                 "open_issues": 52,
                 "owner": "lissy93",
                 "repo": "personal-security-checklist",
-                "stars": 22332,
+                "stars": 22345,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1265,11 +1265,11 @@
                 "id": 146239863,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-17T02:44:26Z",
+                "last_commit": "2026-09-18T02:31:37Z",
                 "open_issues": 1,
                 "owner": "awesome-vpn",
                 "repo": "awesome-vpn",
-                "stars": 6425,
+                "stars": 6434,
                 "topics": [
                   "clash",
                   "clashvergerev",
@@ -1305,7 +1305,7 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2024-01-23T03:02:09Z",
-                "open_issues": 17,
+                "open_issues": 16,
                 "owner": "KevinColemanInc",
                 "repo": "awesome-privacy",
                 "stars": 1035,
@@ -1330,7 +1330,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T06:03:26.515Z",
+    "last_updated": "2026-09-18T05:50:06.557Z",
     "original_repository_info": {
       "archived": false,
       "description": "curated list of open-source anti-censorship tools",
@@ -1339,10 +1339,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-09-07T15:36:01Z",
-      "open_issues": 17,
+      "open_issues": 18,
       "owner": "danoctavian",
       "repo": "awesome-anti-censorship",
-      "stars": 1452,
+      "stars": 1451,
       "topics": [
         "anticensorship",
         "awesome",
