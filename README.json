@@ -17,11 +17,11 @@
                 "id": 4457770,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-21T22:03:13Z",
-                "open_issues": 17,
+                "last_commit": "2026-09-23T00:47:16Z",
+                "open_issues": 18,
                 "owner": "i2p",
                 "repo": "i2p.i2p",
-                "stars": 2706,
+                "stars": 2705,
                 "topics": [
                   "anonymity",
                   "crypto",
@@ -130,7 +130,7 @@
                 "open_issues": 16,
                 "owner": "v2ray",
                 "repo": "v2ray-core",
-                "stars": 46924,
+                "stars": 46921,
                 "topics": [
                   "golang",
                   "http-proxy",
@@ -256,7 +256,7 @@
                 "open_issues": 291,
                 "owner": "ginuerzh",
                 "repo": "gost",
-                "stars": 18229,
+                "stars": 18231,
                 "topics": [
                   "dns",
                   "go",
@@ -289,11 +289,11 @@
                 "id": 1380117,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-22T04:14:41Z",
-                "open_issues": 46,
+                "last_commit": "2026-09-22T16:20:00Z",
+                "open_issues": 42,
                 "owner": "getlantern",
                 "repo": "lantern",
-                "stars": 16017,
+                "stars": 16027,
                 "topics": [
                   "accelerator",
                   "censorship",
@@ -322,7 +322,7 @@
                 "open_issues": 7,
                 "owner": "klzgrad",
                 "repo": "naiveproxy",
-                "stars": 9462,
+                "stars": 9458,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
@@ -343,7 +343,7 @@
                 "open_issues": 22,
                 "owner": "yarrick",
                 "repo": "iodine",
-                "stars": 7979,
+                "stars": 7980,
                 "topics": [
                   "dns",
                   "dns-tunnel",
@@ -371,7 +371,7 @@
                 "open_issues": 340,
                 "owner": "TelegramMessenger",
                 "repo": "MTProxy",
-                "stars": 6920,
+                "stars": 6921,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
@@ -441,31 +441,6 @@
             },
             {
               "node_type": "item",
-              "title": "facebook-tunnel",
-              "description": "Tunneling Internet traffic over FB chat.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Tunneling Internet traffic over Facebook chat.",
-                "homepage": null,
-                "id": 14995356,
-                "language": "Roff",
-                "license": null,
-                "last_commit": "2016-06-29T12:30:33Z",
-                "open_issues": 11,
-                "owner": "matiasinsaurralde",
-                "repo": "facebook-tunnel",
-                "stars": 1288,
-                "topics": [
-                  "facebook",
-                  "tunnel",
-                  "tuntap"
-                ]
-              },
-              "first_seen": "2026-08-28T12:41:27.533Z"
-            },
-            {
-              "node_type": "item",
               "title": "amneziawg-installer",
               "description": "Automated one-command setup of AmneziaWG 2.0 VPN on Ubuntu & Debian — an obfuscated WireGuard fork with DPI bypass, client management, and server hardening.",
               "children": [],
@@ -476,11 +451,11 @@
                 "id": 965639932,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-09-21T17:19:00Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-22T22:56:30Z",
+                "open_issues": 11,
                 "owner": "bivlked",
                 "repo": "amneziawg-installer",
-                "stars": 1278,
+                "stars": 1291,
                 "topics": [
                   "amneziawg",
                   "anti-censorship",
@@ -505,6 +480,31 @@
                 ]
               },
               "first_seen": "2026-09-08T05:53:03.440Z"
+            },
+            {
+              "node_type": "item",
+              "title": "facebook-tunnel",
+              "description": "Tunneling Internet traffic over FB chat.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Tunneling Internet traffic over Facebook chat.",
+                "homepage": null,
+                "id": 14995356,
+                "language": "Roff",
+                "license": null,
+                "last_commit": "2016-06-29T12:30:33Z",
+                "open_issues": 11,
+                "owner": "matiasinsaurralde",
+                "repo": "facebook-tunnel",
+                "stars": 1288,
+                "topics": [
+                  "facebook",
+                  "tunnel",
+                  "tuntap"
+                ]
+              },
+              "first_seen": "2026-08-28T12:41:27.533Z"
             },
             {
               "node_type": "item",
@@ -814,7 +814,7 @@
                 "open_issues": 781,
                 "owner": "HelloZeroNet",
                 "repo": "ZeroNet",
-                "stars": 18766,
+                "stars": 18768,
                 "topics": [
                   "anonymity",
                   "anticensorship",
@@ -874,7 +874,7 @@
                 "open_issues": 79,
                 "owner": "Tribler",
                 "repo": "tribler",
-                "stars": 5315,
+                "stars": 5316,
                 "topics": [
                   "bittorrent",
                   "decentralized",
@@ -964,7 +964,7 @@
                 "open_issues": 153,
                 "owner": "ValdikSS",
                 "repo": "GoodbyeDPI",
-                "stars": 28662,
+                "stars": 28663,
                 "topics": [
                   "anticensorship",
                   "censorship-circumvention",
@@ -990,7 +990,7 @@
                 "open_issues": 1,
                 "owner": "gfwlist",
                 "repo": "gfwlist",
-                "stars": 25620,
+                "stars": 25621,
                 "topics": [
                   "anticensorship",
                   "censorship",
@@ -1234,7 +1234,7 @@
                 "open_issues": 52,
                 "owner": "lissy93",
                 "repo": "personal-security-checklist",
-                "stars": 22369,
+                "stars": 22371,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1265,11 +1265,11 @@
                 "id": 146239863,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-22T02:40:36Z",
+                "last_commit": "2026-09-23T02:40:56Z",
                 "open_issues": 1,
                 "owner": "awesome-vpn",
                 "repo": "awesome-vpn",
-                "stars": 6457,
+                "stars": 6465,
                 "topics": [
                   "clash",
                   "clashvergerev",
@@ -1330,7 +1330,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T06:05:07.049Z",
+    "last_updated": "2026-09-23T05:52:33.611Z",
     "original_repository_info": {
       "archived": false,
       "description": "curated list of open-source anti-censorship tools",
