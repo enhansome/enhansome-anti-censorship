@@ -17,8 +17,8 @@
                 "id": 4457770,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-27T01:32:40Z",
-                "open_issues": 17,
+                "last_commit": "2026-09-27T17:55:09Z",
+                "open_issues": 16,
                 "owner": "i2p",
                 "repo": "i2p.i2p",
                 "stars": 2711,
@@ -130,7 +130,7 @@
                 "open_issues": 16,
                 "owner": "v2ray",
                 "repo": "v2ray-core",
-                "stars": 46930,
+                "stars": 46931,
                 "topics": [
                   "golang",
                   "http-proxy",
@@ -157,10 +157,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-23T08:45:21Z",
-                "open_issues": 80,
+                "open_issues": 81,
                 "owner": "trailofbits",
                 "repo": "algo",
-                "stars": 30396,
+                "stars": 30398,
                 "topics": [
                   "ansible",
                   "encryption",
@@ -193,7 +193,7 @@
                 "open_issues": 237,
                 "owner": "StreisandEffect",
                 "repo": "streisand",
-                "stars": 23443,
+                "stars": 23444,
                 "topics": [
                   "ansible",
                   "anyconnect",
@@ -256,7 +256,7 @@
                 "open_issues": 291,
                 "owner": "ginuerzh",
                 "repo": "gost",
-                "stars": 18239,
+                "stars": 18238,
                 "topics": [
                   "dns",
                   "go",
@@ -289,11 +289,11 @@
                 "id": 1380117,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-25T21:24:48Z",
-                "open_issues": 38,
+                "last_commit": "2026-09-27T14:42:06Z",
+                "open_issues": 37,
                 "owner": "getlantern",
                 "repo": "lantern",
-                "stars": 16048,
+                "stars": 16053,
                 "topics": [
                   "accelerator",
                   "censorship",
@@ -322,7 +322,7 @@
                 "open_issues": 4,
                 "owner": "klzgrad",
                 "repo": "naiveproxy",
-                "stars": 9462,
+                "stars": 9466,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
@@ -343,7 +343,7 @@
                 "open_issues": 22,
                 "owner": "yarrick",
                 "repo": "iodine",
-                "stars": 7987,
+                "stars": 7986,
                 "topics": [
                   "dns",
                   "dns-tunnel",
@@ -371,7 +371,7 @@
                 "open_issues": 340,
                 "owner": "TelegramMessenger",
                 "repo": "MTProxy",
-                "stars": 6925,
+                "stars": 6927,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
@@ -434,7 +434,7 @@
                 "open_issues": 17,
                 "owner": "bigeagle",
                 "repo": "gohop",
-                "stars": 1364,
+                "stars": 1365,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
@@ -451,11 +451,11 @@
                 "id": 965639932,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-09-26T23:36:39Z",
+                "last_commit": "2026-09-27T23:38:28Z",
                 "open_issues": 10,
                 "owner": "bivlked",
                 "repo": "amneziawg-installer",
-                "stars": 1314,
+                "stars": 1323,
                 "topics": [
                   "amneziawg",
                   "anti-censorship",
@@ -627,7 +627,7 @@
                 "open_issues": 3,
                 "owner": "hedioum",
                 "repo": "Hedioum-Pool-Tunnel",
-                "stars": 137,
+                "stars": 138,
                 "topics": [
                   "anti-censorship",
                   "censorship-circumvention",
@@ -814,7 +814,7 @@
                 "open_issues": 781,
                 "owner": "HelloZeroNet",
                 "repo": "ZeroNet",
-                "stars": 18771,
+                "stars": 18772,
                 "topics": [
                   "anonymity",
                   "anticensorship",
@@ -987,10 +987,10 @@
                 "language": null,
                 "license": "LGPL-2.1",
                 "last_commit": "2026-09-26T12:30:03Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "gfwlist",
                 "repo": "gfwlist",
-                "stars": 25631,
+                "stars": 25635,
                 "topics": [
                   "anticensorship",
                   "censorship",
@@ -1234,7 +1234,7 @@
                 "open_issues": 52,
                 "owner": "lissy93",
                 "repo": "personal-security-checklist",
-                "stars": 22398,
+                "stars": 22410,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1265,11 +1265,11 @@
                 "id": 146239863,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-27T02:51:58Z",
+                "last_commit": "2026-09-28T02:52:15Z",
                 "open_issues": 1,
                 "owner": "awesome-vpn",
                 "repo": "awesome-vpn",
-                "stars": 6486,
+                "stars": 6495,
                 "topics": [
                   "clash",
                   "clashvergerev",
@@ -1330,7 +1330,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T06:32:24.461Z",
+    "last_updated": "2026-09-28T06:43:01.911Z",
     "original_repository_info": {
       "archived": false,
       "description": "curated list of open-source anti-censorship tools",
