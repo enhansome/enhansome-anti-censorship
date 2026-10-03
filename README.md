@@ -2,7 +2,7 @@
 
 > A curated list of open source tools and readings for fighting Internet censorship.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,795 | 🐛 106 | 📅 2026-09-02 list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,821 | 🐛 106 | 📅 2026-09-02 list.
 
 ## Categories
 
@@ -37,8 +37,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,795 |
 * [streisand](https://github.com/jlund/streisand) ⚠️ Archived - single command set for a server running a wide variety of anti-censorship software
 * [trojan](https://github.com/trojan-gfw/trojan) ⭐ 19,767 | 🐛 99 | 🌐 C++ | 📅 2024-08-21 - An unidentifiable mechanism that helps you bypass GFW
 * [gost](https://github.com/ginuerzh/gost) ⭐ 18,238 | 🐛 291 | 🌐 Go | 📅 2026-08-30 - GO Simple Tunnel - a simple tunnel written in golang
-* [lantern](https://github.com/getlantern/lantern) ⭐ 16,075 | 🐛 34 | 🌐 Dart | 📅 2026-10-02 - Lantern is a free desktop application that delivers fast, reliable and secure access to the open Internet for users in censored regions
-* [NaïveProxy](https://github.com/klzgrad/naiveproxy) ⭐ 9,482 | 🐛 5 | 🌐 C++ | 📅 2026-09-25 - NaïveProxy uses Chrome's network stack to camouflage traffic with stronger censorship resistence and less detectablility than custom-made network stacks (Shadowsocks and variants, V2Ray suite, handmade Golang stacks).
+* [lantern](https://github.com/getlantern/lantern) ⭐ 16,076 | 🐛 34 | 🌐 Dart | 📅 2026-10-02 - Lantern is a free desktop application that delivers fast, reliable and secure access to the open Internet for users in censored regions
+* [NaïveProxy](https://github.com/klzgrad/naiveproxy) ⭐ 9,481 | 🐛 5 | 🌐 C++ | 📅 2026-09-25 - NaïveProxy uses Chrome's network stack to camouflage traffic with stronger censorship resistence and less detectablility than custom-made network stacks (Shadowsocks and variants, V2Ray suite, handmade Golang stacks).
 * [iodine](https://github.com/yarrick/iodine) ⭐ 7,991 | 🐛 17 | 🌐 C | 📅 2026-09-30 - This is a piece of software that lets you tunnel IPv4 data through a DNS server. This can be usable in different situations where internet access is firewalled, but DNS queries are allowed.
 * [MTProxy](https://github.com/TelegramMessenger/MTProxy) ⭐ 6,932 | 🐛 340 | 🌐 C | 📅 2026-08-04 - Proxy server which helps telegram users who are inside censored areas still be able to connect to telegram
 * [firefly-proxy](https://github.com/yinghuocho/firefly-proxy) ⭐ 4,810 | 🐛 500 | 🌐 Go | 📅 2018-11-14 - A proxy software to help circumventing the Great Firewall.
@@ -85,8 +85,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,795 |
 
 ### Firewall analysis
 
-* [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) ⭐ 28,699 | 🐛 153 | 🌐 C | 📅 2026-01-19 - Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)
-* <https://github.com/gfwlist/gfwlist> ⭐ 25,642 | 🐛 1 | 📅 2026-10-02 - Great Firewall of China ban list
+* [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) ⭐ 28,700 | 🐛 153 | 🌐 C | 📅 2026-01-19 - Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)
+* <https://github.com/gfwlist/gfwlist> ⭐ 25,641 | 🐛 1 | 📅 2026-10-02 - Great Firewall of China ban list
 * [ChinaDNS](https://github.com/shadowsocks/ChinaDNS) ⭐ 3,603 | 🐛 44 | 🌐 C | 📅 2020-05-03 - Protect yourself against DNS poisoning in China.
 * [BlockCheck](https://github.com/ValdikSS/blockcheck) ⚠️ Archived - A script that detects what kind of blocking (DNS, IP, DPI) your ISP is using (for Russia).
 * [ooni-probe](https://github.com/ooni/probe) ⭐ 921 | 🐛 362 | 📅 2026-09-10 - OONI Probe network measurement tool for detecting internet censorship <https://ooni.io>

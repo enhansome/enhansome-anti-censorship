@@ -293,7 +293,7 @@
                 "open_issues": 34,
                 "owner": "getlantern",
                 "repo": "lantern",
-                "stars": 16075,
+                "stars": 16076,
                 "topics": [
                   "accelerator",
                   "censorship",
@@ -322,7 +322,7 @@
                 "open_issues": 5,
                 "owner": "klzgrad",
                 "repo": "naiveproxy",
-                "stars": 9482,
+                "stars": 9481,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
@@ -964,7 +964,7 @@
                 "open_issues": 153,
                 "owner": "ValdikSS",
                 "repo": "GoodbyeDPI",
-                "stars": 28699,
+                "stars": 28700,
                 "topics": [
                   "anticensorship",
                   "censorship-circumvention",
@@ -990,7 +990,7 @@
                 "open_issues": 1,
                 "owner": "gfwlist",
                 "repo": "gfwlist",
-                "stars": 25642,
+                "stars": 25641,
                 "topics": [
                   "anticensorship",
                   "censorship",
@@ -1330,7 +1330,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:31:42.086Z",
+    "last_updated": "2026-10-03T06:23:24.805Z",
     "original_repository_info": {
       "archived": false,
       "description": "curated list of open-source anti-censorship tools",
