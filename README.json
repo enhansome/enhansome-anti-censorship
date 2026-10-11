@@ -21,7 +21,7 @@
                 "open_issues": 16,
                 "owner": "i2p",
                 "repo": "i2p.i2p",
-                "stars": 2727,
+                "stars": 2728,
                 "topics": [
                   "anonymity",
                   "crypto",
@@ -51,7 +51,7 @@
                 "open_issues": 21,
                 "owner": "vuvuzela",
                 "repo": "vuvuzela",
-                "stars": 2489,
+                "stars": 2490,
                 "topics": [
                   "chat",
                   "cryptography",
@@ -157,7 +157,7 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-08T16:29:09Z",
-                "open_issues": 80,
+                "open_issues": 81,
                 "owner": "trailofbits",
                 "repo": "algo",
                 "stars": 30413,
@@ -227,7 +227,7 @@
                 "open_issues": 98,
                 "owner": "trojan-gfw",
                 "repo": "trojan",
-                "stars": 19761,
+                "stars": 19760,
                 "topics": [
                   "anticensorship",
                   "antisurveillance",
@@ -256,7 +256,7 @@
                 "open_issues": 291,
                 "owner": "ginuerzh",
                 "repo": "gost",
-                "stars": 18237,
+                "stars": 18238,
                 "topics": [
                   "dns",
                   "go",
@@ -289,7 +289,7 @@
                 "id": 1380117,
                 "language": "Dart",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-10T00:48:48Z",
+                "last_commit": "2026-10-11T04:52:53Z",
                 "open_issues": 36,
                 "owner": "getlantern",
                 "repo": "lantern",
@@ -322,7 +322,7 @@
                 "open_issues": 3,
                 "owner": "klzgrad",
                 "repo": "naiveproxy",
-                "stars": 9503,
+                "stars": 9505,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
@@ -339,11 +339,11 @@
                 "id": 3354902,
                 "language": "C",
                 "license": "ISC",
-                "last_commit": "2026-10-09T18:44:01Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-10T22:30:11Z",
+                "open_issues": 14,
                 "owner": "yarrick",
                 "repo": "iodine",
-                "stars": 7995,
+                "stars": 7996,
                 "topics": [
                   "dns",
                   "dns-tunnel",
@@ -371,7 +371,7 @@
                 "open_issues": 339,
                 "owner": "TelegramMessenger",
                 "repo": "MTProxy",
-                "stars": 6931,
+                "stars": 6932,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
@@ -413,28 +413,7 @@
                 "open_issues": 51,
                 "owner": "fivesheep",
                 "repo": "chnroutes",
-                "stars": 3099,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T12:41:27.533Z"
-            },
-            {
-              "node_type": "item",
-              "title": "gohop",
-              "description": "A VPN implemention in golang, with crypto and obfuscation in nature.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A VPN implemention in golang, with crypto and obfuscation in nature.",
-                "homepage": null,
-                "id": 10823778,
-                "language": "Shell",
-                "license": null,
-                "last_commit": "2019-02-09T02:11:59Z",
-                "open_issues": 17,
-                "owner": "bigeagle",
-                "repo": "gohop",
-                "stars": 1365,
+                "stars": 3098,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
@@ -455,7 +434,7 @@
                 "open_issues": 11,
                 "owner": "bivlked",
                 "repo": "amneziawg-installer",
-                "stars": 1362,
+                "stars": 1366,
                 "topics": [
                   "amneziawg",
                   "anti-censorship",
@@ -480,6 +459,27 @@
                 ]
               },
               "first_seen": "2026-09-08T05:53:03.440Z"
+            },
+            {
+              "node_type": "item",
+              "title": "gohop",
+              "description": "A VPN implemention in golang, with crypto and obfuscation in nature.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A VPN implemention in golang, with crypto and obfuscation in nature.",
+                "homepage": null,
+                "id": 10823778,
+                "language": "Shell",
+                "license": null,
+                "last_commit": "2019-02-09T02:11:59Z",
+                "open_issues": 17,
+                "owner": "bigeagle",
+                "repo": "gohop",
+                "stars": 1365,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T12:41:27.533Z"
             },
             {
               "node_type": "item",
@@ -522,7 +522,7 @@
                 "open_issues": 2,
                 "owner": "Yawning",
                 "repo": "obfs4",
-                "stars": 1249,
+                "stars": 1250,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:41:27.533Z"
@@ -669,7 +669,7 @@
                 "open_issues": 5,
                 "owner": "v3aqb",
                 "repo": "fwlite",
-                "stars": 136,
+                "stars": 135,
                 "topics": [
                   "gfwlist",
                   "http-proxy",
@@ -814,7 +814,7 @@
                 "open_issues": 780,
                 "owner": "HelloZeroNet",
                 "repo": "ZeroNet",
-                "stars": 18772,
+                "stars": 18775,
                 "topics": [
                   "anonymity",
                   "anticensorship",
@@ -874,7 +874,7 @@
                 "open_issues": 69,
                 "owner": "Tribler",
                 "repo": "tribler",
-                "stars": 5322,
+                "stars": 5323,
                 "topics": [
                   "bittorrent",
                   "decentralized",
@@ -905,7 +905,7 @@
                 "open_issues": 96,
                 "owner": "DemocracyEarth",
                 "repo": "wallet",
-                "stars": 1508,
+                "stars": 1507,
                 "topics": [
                   "blockchain",
                   "crypto",
@@ -964,7 +964,7 @@
                 "open_issues": 154,
                 "owner": "ValdikSS",
                 "repo": "GoodbyeDPI",
-                "stars": 28757,
+                "stars": 28767,
                 "topics": [
                   "anticensorship",
                   "censorship-circumvention",
@@ -987,10 +987,10 @@
                 "language": null,
                 "license": "LGPL-2.1",
                 "last_commit": "2026-10-06T06:17:14Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "gfwlist",
                 "repo": "gfwlist",
-                "stars": 25644,
+                "stars": 25645,
                 "topics": [
                   "anticensorship",
                   "censorship",
@@ -1234,7 +1234,7 @@
                 "open_issues": 42,
                 "owner": "lissy93",
                 "repo": "personal-security-checklist",
-                "stars": 22504,
+                "stars": 22510,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1265,11 +1265,11 @@
                 "id": 146239863,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-10T03:39:48Z",
+                "last_commit": "2026-10-11T03:12:42Z",
                 "open_issues": 1,
                 "owner": "awesome-vpn",
                 "repo": "awesome-vpn",
-                "stars": 6605,
+                "stars": 6617,
                 "topics": [
                   "clash",
                   "clashvergerev",
@@ -1330,7 +1330,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T06:58:23.833Z",
+    "last_updated": "2026-10-11T07:04:15.255Z",
     "original_repository_info": {
       "archived": false,
       "description": "curated list of open-source anti-censorship tools",
@@ -1342,7 +1342,7 @@
       "open_issues": 18,
       "owner": "danoctavian",
       "repo": "awesome-anti-censorship",
-      "stars": 1462,
+      "stars": 1463,
       "topics": [
         "anticensorship",
         "awesome",
