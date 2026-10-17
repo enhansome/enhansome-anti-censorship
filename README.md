@@ -2,7 +2,7 @@
 
 > A curated list of open source tools and readings for fighting Internet censorship.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,589 | 🐛 105 | 📅 2026-09-02 list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,097 | 🐛 105 | 📅 2026-09-02 list.
 
 ## Categories
 
@@ -23,8 +23,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,589 |
 
 ### Privacy and anonymity
 
-* [i2p](https://github.com/i2p/i2p.i2p) ⭐ 2,730 | 🐛 16 | 🌐 Java | 📅 2026-10-09 - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties.
-* [vuvuzela](https://github.com/vuvuzela/vuvuzela) ⭐ 2,491 | 🐛 21 | 🌐 Go | 📅 2019-09-12 - Vuvuzela is a messaging system that protects the privacy of message contents and message metadata. Users communicating through Vuvuzela do not reveal who they are talking to, even in the presence of powerful nation-state adversaries.
+* [i2p](https://github.com/i2p/i2p.i2p) ⭐ 2,730 | 🐛 16 | 🌐 Java | 📅 2026-10-17 - I2P is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties.
+* [vuvuzela](https://github.com/vuvuzela/vuvuzela) ⭐ 2,492 | 🐛 21 | 🌐 Go | 📅 2019-09-12 - Vuvuzela is a messaging system that protects the privacy of message contents and message metadata. Users communicating through Vuvuzela do not reveal who they are talking to, even in the presence of powerful nation-state adversaries.
 * [hidden lake](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake) ⭐ 327 | 🐛 0 | 🌐 Go | 📅 2026-10-09 - Hidden Lake is a decentralized anonymous F2F (Friend-to-Friend) network with theoretical provability based on queues (QB task).
 * [tor](https://www.torproject.org/about/overview.html.en) - The Tor network is a group of volunteer-operated servers that allows people to improve their privacy and security on the Internet. Tor's users employ this network by connecting through a series of virtual tunnels rather than making a direct connection
 * [whonix](https://github.com/Whonix/Whonix) - Whonix is an operating system focused on anonymity, privacy and security. It's based on the Tor anonymity network, Debian GNU/Linux and security by isolation. DNS leaks are impossible, and not even malware with root privileges can find out the user's real IP.
@@ -32,24 +32,24 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,589 |
 
 ### Network tunnels
 
-* [v2ray](https://github.com/v2ray/v2ray-core) ⭐ 46,922 | 🐛 15 | 🌐 Go | 📅 2026-08-31 - A platform for building proxies to bypass network restrictions
-* [algo](https://github.com/trailofbits/algo) ⭐ 30,420 | 🐛 84 | 🌐 Python | 📅 2026-10-14 - Set up a personal VPN in the cloud
+* [v2ray](https://github.com/v2ray/v2ray-core) ⭐ 46,920 | 🐛 15 | 🌐 Go | 📅 2026-08-31 - A platform for building proxies to bypass network restrictions
+* [algo](https://github.com/trailofbits/algo) ⭐ 30,422 | 🐛 84 | 🌐 Python | 📅 2026-10-14 - Set up a personal VPN in the cloud
 * [streisand](https://github.com/jlund/streisand) ⚠️ Archived - single command set for a server running a wide variety of anti-censorship software
-* [trojan](https://github.com/trojan-gfw/trojan) ⭐ 19,750 | 🐛 98 | 🌐 C++ | 📅 2024-08-21 - An unidentifiable mechanism that helps you bypass GFW
+* [trojan](https://github.com/trojan-gfw/trojan) ⭐ 19,751 | 🐛 98 | 🌐 C++ | 📅 2024-08-21 - An unidentifiable mechanism that helps you bypass GFW
 * [gost](https://github.com/ginuerzh/gost) ⭐ 18,245 | 🐛 291 | 🌐 Go | 📅 2026-08-30 - GO Simple Tunnel - a simple tunnel written in golang
-* [lantern](https://github.com/getlantern/lantern) ⭐ 16,314 | 🐛 40 | 🌐 Dart | 📅 2026-10-16 - Lantern is a free desktop application that delivers fast, reliable and secure access to the open Internet for users in censored regions
-* [NaïveProxy](https://github.com/klzgrad/naiveproxy) ⭐ 9,519 | 🐛 3 | 🌐 C++ | 📅 2026-10-07 - NaïveProxy uses Chrome's network stack to camouflage traffic with stronger censorship resistence and less detectablility than custom-made network stacks (Shadowsocks and variants, V2Ray suite, handmade Golang stacks).
+* [lantern](https://github.com/getlantern/lantern) ⭐ 16,355 | 🐛 44 | 🌐 Dart | 📅 2026-10-17 - Lantern is a free desktop application that delivers fast, reliable and secure access to the open Internet for users in censored regions
+* [NaïveProxy](https://github.com/klzgrad/naiveproxy) ⭐ 9,521 | 🐛 3 | 🌐 C++ | 📅 2026-10-07 - NaïveProxy uses Chrome's network stack to camouflage traffic with stronger censorship resistence and less detectablility than custom-made network stacks (Shadowsocks and variants, V2Ray suite, handmade Golang stacks).
 * [iodine](https://github.com/yarrick/iodine) ⭐ 8,001 | 🐛 13 | 🌐 C | 📅 2026-10-11 - This is a piece of software that lets you tunnel IPv4 data through a DNS server. This can be usable in different situations where internet access is firewalled, but DNS queries are allowed.
-* [MTProxy](https://github.com/TelegramMessenger/MTProxy) ⭐ 6,935 | 🐛 340 | 🌐 C | 📅 2026-08-04 - Proxy server which helps telegram users who are inside censored areas still be able to connect to telegram
+* [MTProxy](https://github.com/TelegramMessenger/MTProxy) ⭐ 6,936 | 🐛 340 | 🌐 C | 📅 2026-08-04 - Proxy server which helps telegram users who are inside censored areas still be able to connect to telegram
 * [firefly-proxy](https://github.com/yinghuocho/firefly-proxy) ⭐ 4,807 | 🐛 500 | 🌐 Go | 📅 2018-11-14 - A proxy software to help circumventing the Great Firewall.
 * [chnroutes](https://github.com/fivesheep/chnroutes) ⭐ 3,098 | 🐛 51 | 🌐 Python | 📅 2018-09-06- modifies the route table to route only censored ips through vpn
-* [amneziawg-installer](https://github.com/bivlked/amneziawg-installer) ⭐ 1,380 | 🐛 8 | 🌐 Shell | 📅 2026-10-15 - Automated one-command setup of AmneziaWG 2.0 VPN on Ubuntu & Debian — an obfuscated WireGuard fork with DPI bypass, client management, and server hardening.
+* [amneziawg-installer](https://github.com/bivlked/amneziawg-installer) ⭐ 1,382 | 🐛 8 | 🌐 Shell | 📅 2026-10-15 - Automated one-command setup of AmneziaWG 2.0 VPN on Ubuntu & Debian — an obfuscated WireGuard fork with DPI bypass, client management, and server hardening.
 * [gohop](https://github.com/bigeagle/gohop) ⭐ 1,365 | 🐛 17 | 🌐 Shell | 📅 2019-02-09 - A VPN implemention in golang, with crypto and obfuscation in nature.
 * [facebook-tunnel](https://github.com/matiasinsaurralde/facebook-tunnel) ⭐ 1,290 | 🐛 11 | 🌐 Roff | 📅 2016-06-29 Tunneling Internet traffic over FB chat.
 * [obfs4](https://github.com/Yawning/obfs4) ⭐ 1,251 | 🐛 2 | 🌐 Go | 📅 2023-11-15 - the newest version of the Tor obfsproxy obfuscation proxy. implements multiple pluggable transports.
 * [obfuscated-openssh](https://github.com/brl/obfuscated-openssh) ⭐ 435 | 🐛 9 | 🌐 C | 📅 2011-10-26 - Handshake obfuscation strengthens the initial SSH handshake against systems that identify or classify various network protocols by examining data in transit for static signatures.
 * [Dust](https://github.com/blanu/Dust) ⭐ 286 | 🐛 9 | 🌐 Python | 📅 2023-02-25 - A Polymorphic Engine for Filtering-Resistant Transport Protocols
-* [FTE](https://github.com/kpdyer/fteproxy) ⭐ 155 | 🐛 2 | 🌐 Python | 📅 2026-10-14 - fteproxy provides transport-layer protection to resist keyword filtering, censorship and discriminatory routing policies
+* [FTE](https://github.com/kpdyer/fteproxy) ⭐ 156 | 🐛 2 | 🌐 Python | 📅 2026-10-14 - fteproxy provides transport-layer protection to resist keyword filtering, censorship and discriminatory routing policies
 * [telex](https://github.com/ewust/telex) ⭐ 142 | 🐛 2 | 🌐 C++ | 📅 2016-03-14 - involves placing anticensorship technology into the Internet's core network infrastructure, through cooperation from large ISPs.
 * [Hedioum Pool Tunnel](https://github.com/hedioum/Hedioum-Pool-Tunnel) ⭐ 141 | 🐛 3 | 🌐 Go | 📅 2026-08-19 - A high-performance anti-DPI tunnel in Go that disguises VLESS/Trojan traffic as SSH, TLS/HTTPS, SMTP/IMAP or a DirectAdmin panel, with dynamic connection pools and real Let's Encrypt certificates.
 * [fwlite](https://github.com/v3aqb/fwlite) ⭐ 135 | 🐛 5 | 🌐 Python | 📅 2024-02-17 - A powerful HTTP proxy server designed to circumvent the Great Firewall (GFW)
@@ -73,10 +73,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,589 |
 
 ### Decentralized systems
 
-* [ipfs](https://github.com/ipfs/ipfs) ⭐ 23,054 | 🐛 8 | 📅 2025-05-01 - IPFS is a global, versioned, peer-to-peer filesystem ([awesome list](https://github.com/ipfs/awesome-ipfs) ⭐ 4,614 | 🐛 24 | 🌐 JavaScript | 📅 2025-11-13)
-* [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) ⭐ 18,776 | 🐛 780 | 🌐 JavaScript | 📅 2024-01-31 - Decentralized websites using Bitcoin crypto and the BitTorrent network
+* [ipfs](https://github.com/ipfs/ipfs) ⭐ 23,052 | 🐛 8 | 📅 2025-05-01 - IPFS is a global, versioned, peer-to-peer filesystem ([awesome list](https://github.com/ipfs/awesome-ipfs) ⭐ 4,616 | 🐛 24 | 🌐 JavaScript | 📅 2025-11-13)
+* [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) ⭐ 18,775 | 🐛 780 | 🌐 JavaScript | 📅 2024-01-31 - Decentralized websites using Bitcoin crypto and the BitTorrent network
 * [dat](https://github.com/datproject/dat) ⭐ 8,225 | 🐛 106 | 🌐 JavaScript | 📅 2023-05-07 - a decentralized tool for distributing data ([awesome list](https://github.com/clkao/awesome-dat) ⭐ 96 | 🐛 6 | 📅 2017-08-11)
-* [tribler](https://github.com/Tribler/tribler) ⭐ 5,323 | 🐛 66 | 🌐 Python | 📅 2026-10-13 - Privacy enhanced BitTorrent client with P2P content discovery
+* [tribler](https://github.com/Tribler/tribler) ⭐ 5,323 | 🐛 61 | 🌐 Python | 📅 2026-10-16 - Privacy enhanced BitTorrent client with P2P content discovery
 * [sovereign](https://github.com/DemocracyEarth/sovereign) ⭐ 1,507 | 🐛 96 | 🌐 JavaScript | 📅 2023-03-04 - Censorship resistant democracies.
 * [twister](https://github.com/miguelfreitas/twister-core) ⭐ 1,404 | 🐛 173 | 🌐 C++ | 📅 2024-01-18 - twister is an experimental peer-to-peer microblogging software.
 * [AKASHA](https://akasha.world/) - next-generation social media network immune to censorship by design. It is built on top of Ethereum using Smart Contracts and IPFS
@@ -85,8 +85,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,589 |
 
 ### Firewall analysis
 
-* [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) ⭐ 28,781 | 🐛 154 | 🌐 C | 📅 2026-01-19 - Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)
-* <https://github.com/gfwlist/gfwlist> ⭐ 25,661 | 🐛 4 | 📅 2026-10-06 - Great Firewall of China ban list
+* [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) ⭐ 28,785 | 🐛 154 | 🌐 C | 📅 2026-01-19 - Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)
+* <https://github.com/gfwlist/gfwlist> ⭐ 25,661 | 🐛 2 | 📅 2026-10-16 - Great Firewall of China ban list
 * [ChinaDNS](https://github.com/shadowsocks/ChinaDNS) ⭐ 3,603 | 🐛 44 | 🌐 C | 📅 2020-05-03 - Protect yourself against DNS poisoning in China.
 * [BlockCheck](https://github.com/ValdikSS/blockcheck) ⚠️ Archived - A script that detects what kind of blocking (DNS, IP, DPI) your ISP is using (for Russia).
 * [ooni-probe](https://github.com/ooni/probe) ⭐ 926 | 🐛 359 | 📅 2026-09-10 - OONI Probe network measurement tool for detecting internet censorship <https://ooni.io>
@@ -111,9 +111,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,589 |
 
 ### Related awesome lists
 
-* [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) ⭐ 22,547 | 🐛 37 | 🌐 TypeScript | 📅 2026-10-15 A curated list of links and tips, to protect privacy and improve security
-* [awesome-vpn](https://github.com/hugetiny/awesome-vpn) ⭐ 6,660 | 🐛 4 | 🌐 Python | 📅 2026-10-16 A curated list of awesome free VPNs and proxies.
-* [awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) ⭐ 1,038 | 🐛 15 | 📅 2024-01-23 Limiting personal data leaks on the internet
+* [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) ⭐ 22,550 | 🐛 37 | 🌐 TypeScript | 📅 2026-10-15 A curated list of links and tips, to protect privacy and improve security
+* [awesome-vpn](https://github.com/hugetiny/awesome-vpn) ⭐ 6,667 | 🐛 4 | 🌐 Python | 📅 2026-10-17 A curated list of awesome free VPNs and proxies.
+* [awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) ⭐ 1,039 | 🐛 15 | 📅 2024-01-23 Limiting personal data leaks on the internet
 
 ### Articles and research papers
 
@@ -131,4 +131,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,589 |
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
